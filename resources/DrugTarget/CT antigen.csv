@@ -1,0 +1,277 @@
+Gene family,Family member,Chromosomal localization,CT identifier,Annotation
+ACRBP,ACRBP,12p13.31,CT23,Acrosin-binding protein; May be involved in packaging and condensation of the acrosin zymogen in the acrosomal matrix via its association with proacrosin; Armadillo-like helical domain containing
+ACTL8,ACTL8,1p36.2-p35,CT57,Actin-like protein 8; Actin related proteins
+ADAM2,ADAM2,8p11.2,CT15,Disintegrin and metalloproteinase domain-containing protein 2; Sperm surface membrane protein that may be involved in sperm-egg plasma membrane adhesion and fusion during fertilization. Could have a direct role in sperm-zona binding or migration of sperm from the uterus into the oviduct. Interactions with egg membrane could be mediated via binding between its disintegrin-like domain to one or more integrins receptors on the egg. This is a non catalytic metalloprotease-like protein; ADAM metallopeptidase domain containing
+ADAM29,ADAM29,4q34,CT73,Disintegrin and metalloproteinase domain-containing protein 29; May be involved in spermatogenesis and fertilization. Seems to be a non catalytic metalloprotease-like protein; ADAM metallopeptidase domain containing
+AF15q14,CASC5,15q14,CT29,"Kinetochore scaffold 1; Performs two crucial functions during mitosis: it is essential for spindle-assembly checkpoint signaling and for correct chromosome alignment. Required for attachment of the kinetochores to the spindle microtubules. Directly links BUB1 and BUB1B to kinetochores. Part of the MIS12 complex, which may be fundamental for kinetochore formation and proper chromosome segregation during mitosis. Acts in coordination with CENPK to recruit the NDC80 complex to the outer kinetochore"
+AKAP3,AKAP3,12p13.3,CT82,A-kinase anchor protein 3; May function as a regulator of both motility- and head- associated functions such as capacitation and the acrosome reaction; A-kinase anchoring proteins
+AKAP4,AKAP4,Xp11.2,CT99,A-kinase anchor protein 4; Major structural component of sperm fibrous sheath. Plays a role in sperm motility; A-kinase anchoring proteins
+ANKRD45,ANKRD45,1q25.1,CT 117,Ankyrin repeat domain-containing protein 45; Ankyrin repeat domain containing
+ARMC3,ARMC3,10p12.31,CT81,Armadillo repeat containing 3
+ARX,ARX,Xp21,CT 121,Homeobox protein ARX; Transcription factor required for normal brain development. May be important for maintenance of specific neuronal subtypes in the cerebral cortex and axonal guidance in the floor plate; Belongs to the paired homeobox family. Bicoid subfamily
+ATAD2,ATAD2,8q24.13,CT137,"ATPase family AAA domain-containing protein 2; May be a transcriptional coactivator of the nuclear receptor ESR1 required to induce the expression of a subset of estradiol target genes, such as CCND1, MYC and E2F1. May play a role in the recruitment or occupancy of CREBBP at some ESR1 target gene promoters. May be required for histone hyperacetylation. Involved in the estrogen-induced cell proliferation and cell cycle progression of breast cancer cells; Belongs to the AAA ATPase family"
+BAGE,BAGE,21p11.1,CT2.1,B melanoma antigen 2; Unknown. Candidate gene encoding tumor antigens; Belongs to the BAGE family
+BAGE,BAGE2,21p11.1,CT2.2,B melanoma antigen 2; Unknown. Candidate gene encoding tumor antigens; Belongs to the BAGE family
+BAGE,BAGE3,21p11.1,CT2.3,B melanoma antigen 2; Unknown. Candidate gene encoding tumor antigens; Belongs to the BAGE family
+BAGE,BAGE4,21p11.1,CT2.4,B melanoma antigen 2; Unknown. Candidate gene encoding tumor antigens; Belongs to the BAGE family
+BAGE,BAGE5,21p11.1,CT2.5,B melanoma antigen 2; Unknown. Candidate gene encoding tumor antigens; Belongs to the BAGE family
+BORIS,CTCFL,20q13.31,CT27,"Transcriptional repressor CTCFL; Testis-specific DNA binding protein responsible for insulator function, nuclear architecture and transcriptional control, which probably acts by recruiting epigenetic chromatin modifiers. Plays a key role in gene imprinting in male germline, by participating in the establishment of differential methylation at the IGF2/H19 imprinted control region (ICR). Directly binds the unmethylated H19 ICR and recruits the PRMT7 methyltransferase, leading to methylate histone H4 'Arg-3' to form H4R3sme2. This probably leads to recruit de novo DNA methyltransferases a [...] "
+BRDT,BRDT,1p22.1,CT9,"Bromodomain testis-specific protein; Testis-specific chromatin protein that specifically binds histone H4 acetylated at 'Lys-5' and 'Lys-8' (H4K5ac and H4K8ac, respectively) and plays a key role in spermatogenesis. Required in late pachytene spermatocytes: plays a role in meiotic and post-meiotic cells by binding to acetylated histones at the promoter of specific meiotic and post-meiotic genes, facilitating their activation at the appropriate time. In the post-meiotic phase of spermatogenesis, binds to hyperacetylated histones and participates in their general removal from DNA. Also re [...] "
+C21orf99,ANKRD30BP2,21q11.2,CT85,#N/A
+CABYR,CABYR,18q11.2,CT88,Calcium-binding tyrosine phosphorylation-regulated protein; May function as a regulator of both motility- and head- associated functions such as capacitation and the acrosome reaction. Isoform 1 binds calcium in vitro. Isoform 2 and isoform 6 probably bind calcium. Isoform 3 and isoform 5 do not bind calcium in vitro. Isoform 4 probably does not bind calcium
+CAGE,DDX53,Xp22.11,CT26,Probable ATP-dependent RNA helicase DDX53; DEAD-box helicase 53
+CAGE1,CAGE1,6p24.3,CT95,Cancer-associated gene 1 protein; Cancer antigen 1
+CALR3,CALR3,19p13.11,CT93,"Calreticulin-3; During spermatogenesis, may act as a lectin-independent chaperone for specific client proteins such as ADAM3. Required for sperm fertility (By similarity). CALR3 capacity for calcium- binding may be absent or much lower than that of CALR; Belongs to the calreticulin family"
+CCDC110,CCDC110,4q35.1,CT52,Coiled-coil domain containing 110
+CCDC33,CCDC33,15q24.1,CT61,Coiled-coil domain containing 33
+CCDC36,CCDC36,3p21.31,CT74,"Interactor of HORMAD1 protein 1; Required for DNA double-strand breaks (DSBs) formation in unsynapsed regions during meiotic recombination. Probably acts by forming a complex with MEI4 and REC114, which activates DSBs formation in unsynapsed regions, an essential step to ensure completion of synapsis. Not required for HORMAD1 functions in pairing-independent synaptonemal complex formation, ATR recruitment to unsynapsed axes, meiotic silencing of unsynapsed chromatin (MSUC) or meiotic surveillance"
+CCDC62,CCDC62,12q24.31,CT 109,"Coiled-coil domain-containing protein 62; Nuclear receptor coactivator that can enhance preferentially estrogen receptors ESR1 and ESR2 transactivation. Modulates also progesterone/PGR, glucocorticoid/NR3C1 and androgen/AR receptors transactivation, although at lower level; little effect on vitamin D receptor/VDR"
+CCDC83,CCDC83,11q14.1-q14.2,CT148,Coiled-coil domain containing 83
+CEP290,CEP290,12q21.32,CT87,Centrosomal protein of 290 kDa; Involved in early and late steps in cilia formation. Its association with CCP110 is required for inhibition of primary cilia formation by CCP110. May play a role in early ciliogenesis in the disappearance of centriolar satellites and in the transition of primary ciliar vesicles (PCVs) to capped ciliary vesicles (CCVs). Required for the centrosomal recruitment of RAB8A and for the targeting of centriole satellite proteins to centrosomes such as of PCM1. Required for the correct localization of ciliary and phototransduction proteins in retinal photorecepto [...] 
+CEP55,CEP55,10q23.33,CT 111,Centrosomal protein of 55 kDa; Plays a role in mitotic exit and cytokinesis. Recruits PDCD6IP and TSG101 to midbody during cytokinesis. Required for successful completion of cytokinesis. Not required for microtubule nucleation. Plays a role in the development of the brain and kidney
+COX6B2,COX6B2,19q13.42,CT59,Cytochrome c oxidase subunit 6B2; Connects the two COX monomers into the physiological dimeric form; Belongs to the cytochrome c oxidase subunit 6B family
+CPXCR1,CPXCR1,Xq21.3,CT77,"CPX chromosome region, candidate 1"
+CSAGE,CSAG1,Xq28,CT24.1,Putative chondrosarcoma-associated gene 1 protein; Chondrosarcoma associated gene 1
+CSAGE,CSAG2,Xq28,CT24.2,"Drug-resistance related protein, its expression is associated with the chemotherapy resistant and neoplastic phenotype."
+CSAGE,CSAG3B,Xq28,,#N/A
+CT45,CT45A1,Xq26.3,CT45.1,Cancer/testis antigen family 45 member A1; Belongs to the CT45 family
+CT45,CT45A2,Xq26.3,CT45.2,Cancer/testis antigen family 45 member A2
+CT45,CT45A3,Xq26.3,CT45.3,Cancer/testis antigen family 45 member A5; Belongs to the CT45 family
+CT45,CT45A4,Xq26.3,CT45.4,Cancer/testis antigen family 45 member A3
+CT45,CT45A5,Xq26.3,CT45.5,Cancer/testis antigen family 45 member A5; Belongs to the CT45 family
+CT45,CT45A6,Xq26.3,CT45.6,Cancer/testis antigen family 45 member A5; Belongs to the CT45 family
+CT47,CT47A1,Xq24,CT47.1,"Cancer/testis antigen family 47, member A1"
+CT47,CT47A2,Xq24,CT47.2,"Cancer/testis antigen family 47, member A2"
+CT47,CT47A3,Xq24,CT47.3,"Cancer/testis antigen family 47, member A3"
+CT47,CT47A4,Xq24,CT47.4,"Cancer/testis antigen family 47, member A4"
+CT47,CT47A5,Xq24,CT47.5,"Cancer/testis antigen family 47, member A5"
+CT47,CT47A6,Xq24,CT47.6,"Cancer/testis antigen family 47, member A6"
+CT47,CT47A7,Xq24,CT47.7,"Cancer/testis antigen family 47, member A7"
+CT47,CT47A8,Xq24,CT47.8,"Cancer/testis antigen family 47, member A8"
+CT47,CT47A9,Xq24,CT47.9,"Cancer/testis antigen family 47, member A9"
+CT47,CT47A10,Xq24,CT47.10,"Cancer/testis antigen family 47, member A10"
+CT47,CT47A11,Xq24,CT47.11,"Cancer/testis antigen family 47, member A11"
+CT47,CT47B1,Xq24,CT47.13,"Cancer/testis antigen family 47, member B1"
+CT66,CT66,7q11.22,CT66,RNA gene
+CT69,CT69,6q23.2,CT69,RNA gene
+CT70,CT70,Unknown,CT70,RNA gene
+CT96,TTK,6q13-q21,CT96,"Dual specificity protein kinase TTK; Phosphorylates proteins on serine, threonine, and tyrosine. Probably associated with cell proliferation. Essential for chromosome alignment by enhancing AURKB activity (via direct CDCA8 phosphorylation) at the centromere, and for the mitotic checkpoint"
+CTAGE-1,CTAGE1,18p11.2,CT21.1,cTAGE family member 2; Cutaneous T cell lymphoma-associated antigen 1; CTAGE family
+CTAGE-1,CTAGE-2,18p11.2,CT21.2,cTAGE family member 2; Cutaneous T cell lymphoma-associated antigen 1; CTAGE family
+CTAGE-1,CTAGE5,14q13.3,CT21.3,Endoplasmic reticulum export factor CTAGE5; Plays a role in the transport of cargos that are too large to fit into COPII-coated vesicles and require specific mechanisms to be incorporated into membrane-bound carriers and exported from the endoplasmic reticulum. This protein is required for collagen VII (COL7A1) secretion by loading COL7A1 into transport carriers and recruiting PREB/SEC12 at the endoplasmic reticulum exit sites; CTAGE family
+CTNNA2,CTNNA2,2p12-p11.1,CT 114,Catenin alpha-2; May function as a linker between cadherin adhesion receptors and the cytoskeleton to regulate cell-cell adhesion and differentiation in the nervous system. Regulates morphological plasticity of synapses and cerebellar and hippocampal lamination during development. Functions in the control of startle modulation; Alpha catenins
+CXorf48,CT55,Xq26.3,CT55,Cancer/testis antigen 55
+Cxorf61,CT83,Xq23,CT83,Kita-kyushu lung cancer antigen 1; Cancer/testis antigen 83
+cylin A,CCNA1,13q12.3-q13,CT146,Cyclin-A1; May be involved in the control of the cell cycle at the G1/S (start) and G2/M (mitosis) transitions. May primarily function in the control of the germline meiotic cell cycle and additionally in the control of mitotic cell cycle in some somatic cells; Belongs to the cyclin family. Cyclin AB subfamily
+DCAF12,DCAF12,9p13.3,CT102,DDB1- and CUL4-associated factor 12; May function as a substrate receptor for CUL4-DDB1 E3 ubiquitin-protein ligase complex; DDB1 and CUL4 associated factors
+DMRT1,DMRT1,9p24.3,CT154,"Doublesex- and mab-3-related transcription factor 1; Transcription factor that plays a key role in male sex determination and differentiation by controlling testis development and male germ cell proliferation. Plays a central role in spermatogonia by inhibiting meiosis in undifferentiated spermatogonia and promoting mitosis, leading to spermatogonial development and allowing abundant and continuous production of sperm. Acts both as a transcription repressor and activator: prevents meiosis by restricting retinoic acid (RA)-dependent transcription and repressing STRA8 expression and prom [...] "
+DNAJB8,DNAJB8,3q21.3,CT156,DnaJ homolog subfamily B member 8; Efficient suppressor of aggregation and toxicity of disease-associated polyglutamine proteins; DNAJ heat shock proteins
+DPPA2,DPPA2,3q13.13,CT100,"Developmental pluripotency-associated protein 2; Binds to target gene promoters, including NKX2-5 and SYCE1, but not GATA4, and may be involved in the maintenance of the active epigenetic status of these genes"
+ELOVL4,ELOVL4,6q14,CT 118,"Elongation of very long chain fatty acids protein 4; Catalyzes the first and rate-limiting reaction of the four that constitute the long-chain fatty acids elongation cycle. This endoplasmic reticulum-bound enzymatic process, allows the addition of 2 carbons to the chain of long- and very long-chain fatty acids/VLCFAs per cycle. Condensing enzyme that specifically elongates C24:0 and C26:0 acyl-CoAs. May participate in the production of saturated and monounsaturated VLCFAs of different chain lengths that are involved in multiple biological processes as precursors of membrane lipids and  [...] "
+FAM133A,FAM133A,Xq21.32,CT 115,Protein FAM133A; Family with sequence similarity 133 member A
+FAM46D,FAM46D,Xq21.1,CT 112,Putative nucleotidyltransferase FAM46D; Probable nucleotidyltransferase that may act as a non- canonical poly(A) RNA polymerase
+FATE,FATE1,Xq28,CT43,Fetal and adult testis-expressed transcript protein; Involved in the regulation of endoplasmic reticulum (ER)-mitochondria coupling. Negatively regulates the ER- mitochondria distance and Ca(2+) transfer from ER to mitochondria possibly implicating it in the regulation of apoptosis. May collaborate with RNF183 to restrain BIK protein levels thus regulating apoptotic signaling
+FBXO39,FBXO39,17p13.1,CT144,F-box only protein 39; Substrate-recognition component of the SCF (SKP1-CUL1-F- box protein)-type E3 ubiquitin ligase complex; F-boxes other
+FTHL17,FTHL17,Xp21,CT38,Ferritin heavy chain like 17
+GAGE,GAGE1,Xp11.4-p11.2,CT4.1,G antigen 1; Belongs to the GAGE family
+GAGE,GAGE2A,Xp11.23,CT4.2,G antigen 2A
+GAGE,GAGE3,Xp11.23,CT4.3,#N/A
+GAGE,GAGE4,Xp11.4-p11.2,CT4.4,G antigen 12F; Belongs to the GAGE family
+GAGE,GAGE5,Xp11.4-p11.2,CT4.5,G antigen 12F; Belongs to the GAGE family
+GAGE,GAGE6,Xp11.4-p11.2,CT4.6,G antigen 12F; Belongs to the GAGE family
+GAGE,GAGE7,Xp11.4-p11.2,CT4.7,G antigen 12F; Belongs to the GAGE family
+GAGE,GAGE8,Xp11.23,CT4.8,G antigen 2A
+GAGE,GAGE12B,Xp11.23,,G antigen 12E
+GAGE,GAGE12C,Xp11.23,,G antigen 12C; Belongs to the GAGE family
+GAGE,GAGE12D,Xp11.23,,G antigen 12D; Belongs to the GAGE family
+GAGE,GAGE12E,Xp11.23,,G antigen 12E
+GAGE,GAGE12F,Xp11.23,,G antigen 12F; Belongs to the GAGE family
+GAGE,GAGE12G,Xp11.23,,G antigen 12G; Belongs to the GAGE family
+GAGE,GAGE12H,Xp11.23,,G antigen 12H
+GAGE,GAGE12I,Xp11.4-p11.2,,G antigen 12F; Belongs to the GAGE family
+GAGE,GAGE12J,Xp11.23,,G antigen 12J
+GAGE,GAGE13,Xp11.23,,G antigen 13
+GOLGAGL2 FA,GOLGA6L2,15q11.2,CT105,#N/A
+GPAT2,GPAT2,2q11.1,CT 123,"Glycerol-3-phosphate acyltransferase 2, mitochondrial; Esterifies acyl-group from acyl-ACP to the sn-1 position of glycerol-3-phosphate, an essential step in glycerolipid biosynthesis. Required for primary processing step during piRNA biosynthesis. Molecular mechanisms by which it promotes piRNA biosynthesis are unclear and do not involve its acyltransferase activity; Belongs to the GPAT/DAPAT family"
+GPATCH2,GPATCH2,1q41,CT 110,G patch domain-containing protein 2; Enhances the ATPase activity of DHX15 in vitro; G-patch domain containing
+HAGE,DDX43,6q12-q13,CT13,Probable ATP-dependent RNA helicase DDX43; DEAD-box helicase 43
+HCA661,TFDP3,Xq26.2,CT30,Transcription factor Dp family member 3; Competitive inhibitor of E2F-mediated transactivation activity. Impairs E2F-mediated cell-cycle progression from G(1) to S phase; Belongs to the E2F/DP family
+HEMGN,HEMGN,9q22.33,CT155,#N/A
+HOM-TES-85,LUZP4,Xq23,CT28,Leucine zipper protein 4; Export adapter involved in mRNA nuclear export in cancer cells. Binds and enhances the RNA-binding activity of the nuclear RNA export factor NXF1. Can restore mRNA export function in cells compromised by loss of mRNA export adapters
+HORMAD,HORMAD2,22q12.2,CT46.2,"HORMA domain-containing protein 2; Essential for synapsis surveillance during meiotic prophase via the recruitment of ATR activity. Plays a key role in the male mid-pachytene checkpoint and the female meiotic prophase checkpoint: required for efficient build-up of ATR activity on unsynapsed chromosome regions, a process believed to form the basis of meiotic silencing of unsynapsed chromatin (MSUC) and meiotic prophase quality control in both sexes. Required for the DNA double-strand break-independent, BRCA1-dependent activation of ATR on the sex chromosomes that is essential for normal [...] "
+HORMAD1,HORMAD1,1q21.2,CT46,"HORMA domain-containing protein 1; Plays a key role in meiotic progression. Regulates 3 different functions during meiosis: ensures that sufficient numbers of processed DNA double-strand breaks (DSBs) are available for successful homology search by increasing the steady-state numbers of single-stranded DSB ends. Promotes synaptonemal-complex formation independently of its role in homology search. Plays a key role in the male mid-pachytene checkpoint and the female meiotic prophase checkpoint: required for efficient build-up of ATR activity on unsynapsed chromosome regions, a process be [...] "
+HSPB9,HSPB9,17q21.2,CT51,Heat shock protein family B member 9
+IGSF11,IGSF11,3q13.32,CT 119,Immunoglobulin superfamily member 11; Functions as a cell adhesion molecule through homophilic interaction. Stimulates cell growth; I-set domain containing
+IL13RA,IL13RA2,Xq13.1-q28,CT19,"Interleukin-13 receptor subunit alpha-2; Binds as a monomer with high affinity to interleukin-13 (IL13), but not to interleukin-4 (IL4); CD molecules"
+IMP-3,IGF2BP3,7p11,CT98,"Insulin-like growth factor 2 mRNA-binding protein 3; RNA-binding factor that may recruit target transcripts to cytoplasmic protein-RNA complexes (mRNPs). This transcript 'caging' into mRNPs allows mRNA transport and transient storage. It also modulates the rate and location at which target transcripts encounter the translational apparatus and shields them from endonuclease attacks or microRNA-mediated degradation. Binds to the 3'-UTR of CD44 mRNA and stabilizes it, hence promotes cell adhesion and invadopodia formation in cancer cells. Binds to beta- actin/ACTB and MYC transcripts. Bin [...] "
+JARID1B,KDM5B,1q32.1,CT31,"Lysine-specific demethylase 5B; Histone demethylase that demethylates 'Lys-4' of histone H3, thereby playing a central role in histone code. Does not demethylate histone H3 'Lys-9' or H3 'Lys-27'. Demethylates trimethylated, dimethylated and monomethylated H3 'Lys-4'. Acts as a transcriptional corepressor for FOXG1B and PAX9. Favors the proliferation of breast cancer cells by repressing tumor suppressor genes such as BRCA1 and HOXA5. In contrast, may act as a tumor suppressor for melanoma. Represses the CLOCK-ARNTL/BMAL1 heterodimer-mediated transcriptional activation of the core clock [...] "
+KIAA0100/MLAA-22,KIAA0100,17q11.2,CT 101,Protein KIAA0100; May be involved in membrane trafficking; Belongs to the SABRE family
+KIF2C,MCAK,1p34.1,CT139,"Kinesin-like protein KIF2C; In complex with KIF18B, constitutes the major microtubule plus-end depolymerizing activity in mitotic cells. Regulates the turnover of microtubules at the kinetochore and functions in chromosome segregation during mitosis. Plays a role in chromosome congression and is required for the lateral to end-on conversion of the chromosome- microtubule attachment; Belongs to the TRAFAC class myosin-kinesin ATPase superfamily. Kinesin family. MCAK/KIF2 subfamily"
+KP-OVA52,REC114,15q22,CT147,"Meiotic recombination protein REC114; Required for DNA double-strand breaks (DSBs) formation in unsynapsed regions during meiotic recombination. Probably acts by forming a complex with IHO1/CCDC36 and MEI4, which activates DSBs formation in unsynapsed regions, an essential step to ensure completion of synapsis"
+LDHC,LDHC,11p15.5-p15.3,CT32,L-lactate dehydrogenase C chain; Possible role in sperm motility
+LEMD1,LEMD1,1q32.1,CT50,LEM domain containing 1
+LIPI,LIPI,21q11.2,CT17,"Lipase member I; Hydrolyzes specifically phosphatidic acid (PA) to produce 2-acyl lysophosphatidic acid (LPA; a potent bioactive lipid mediator) and fatty acid. Does not hydrolyze other phospholipids, like phosphatidylserine (PS), phosphatidylcholine (PC) and phosphatidylethanolamine (PE) or triacylglycerol (TG); Belongs to the AB hydrolase superfamily. Lipase family"
+LOC196993,LOC196993,15q23,CT62,RNA gene
+LOC348120,LOC348120,15q11.2,CT60,RNA gene
+LOC440934,LOC440934,2q36.1,CT75,RNA gene
+LOC647107,LOC647107,3q26.1,CT64,RNA gene
+LY6K,LY6K,8q24.3,CT97,Lymphocyte antigen 6K; Required for sperm migration into the oviduct and male fertility by controlling binding of sperm to zona pellucida (By similarity). May play a role in cell growth; LY6/PLAUR domain containing
+LYPD6B,LYPD6B ,2q23.1-q23.2,CT116,#N/A
+MAEL,MAEL,1q24.1,CT128,"Protein maelstrom homolog; Plays a central role during spermatogenesis by repressing transposable elements and preventing their mobilization, which is essential for the germline integrity. Acts via the piRNA metabolic process, which mediates the repression of transposable elements during meiosis by forming complexes composed of piRNAs and Piwi proteins and governs the methylation and subsequent repression of transposons. Its association with piP- bodies suggests a participation in the secondary piRNAs metabolic process. Required for the localization of germ-cell factors to the meiotic  [...] "
+MAGEA,MAGEA1,Xq28,CT1.1,Melanoma-associated antigen 1; May be involved in transcriptional regulation through interaction with SNW1 and recruiting histone deactelyase HDAC1. May inhibit notch intracellular domain (NICD) transactivation. May play a role in embryonal development and tumor transformation or aspects of tumor progression. Antigen recognized on a melanoma by autologous cytolytic T-lymphocytes; MAGE family
+MAGEA,MAGEA2,Xq28,CT1.2,Melanoma-associated antigen 2; Reduces p53/TP53 transactivation function through recruitment of HDAC3 to p53/TP53 transcription sites. Also represses p73/TP73 activity. Proposed to enhance ubiquitin ligase activity of RING-type zinc finger-containing E3 ubiquitin-protein ligases. In vitro enhances ubiquitin ligase activity of TRIM28 and stimulates p53/TP53 ubiquitination by TRIM28 potentially in presence of Ubl-conjugating enzyme UBE2H. Proposed to act through recruitment and/or stabilization of the Ubl-conjugating enzyme (E2) at the E3:substrate complex. May play a role in embryonal d [...] 
+MAGEA,MAGEA3,Xq28,CT1.3,Melanoma-associated antigen 3; Proposed to enhance ubiquitin ligase activity of RING- type zinc finger-containing E3 ubiquitin-protein ligases. May enhance ubiquitin ligase activity of TRIM28 and stimulate p53/TP53 ubiquitination by TRIM28. Proposed to act through recruitment and/or stabilization of the Ubl-conjugating enzyme (E2) at the E3:substrate complex. May play a role in embryonal development and tumor transformation or aspects of tumor progression. In vitro promotes cell viability in melanoma cell lines. Antigen recognized on a melanoma by autologous cytolytic T-lymphocytes; MA [...] 
+MAGEA,MAGEA4,Xq28,CT1.4,"Melanoma-associated antigen 4; Not known, though may play a role in embryonal development and tumor transformation or aspects of tumor progression; MAGE family"
+MAGEA,MAGEA5,Xq28,CT1.5,lanoma-associated antigen 5
+MAGEA,MAGEA6,Xq28,CT1.6,Melanoma-associated antigen 6; Proposed to enhance ubiquitin ligase activity of RING- type zinc finger-containing E3 ubiquitin-protein ligases. May enhance ubiquitin ligase activity of TRIM28 and stimulate p53/TP53 ubiquitination by TRIM28. Proposed to act through recruitment and/or stabilization of the Ubl-conjugating enzyme (E2) at the E3:substrate complex. May play a role in tumor transformation or aspects of tumor progression. In vitro promotes cell viability in melanoma cell lines; MAGE family
+MAGEA,MAGEA8,Xq28,CT1.8,"Melanoma-associated antigen 8; Not known, though may play a role in embryonal development and tumor transformation or aspects of tumor progression; MAGE family"
+MAGEA,MAGEA9,Xq28,CT1.9,"Melanoma-associated antigen 9; Not known, though may play a role in embryonal development and tumor transformation or aspects of tumor progression; MAGE family"
+MAGEA,MAGEA10,Xq28,CT1.10,"Melanoma-associated antigen 10; Not known, though may play a role in embryonal development and tumor transformation or aspects of tumor progression; MAGE family"
+MAGEA,MAGEA11,Xq28,CT1.11,Melanoma-associated antigen 11; Acts as androgen receptor coregulator that increases androgen receptor activity by modulating the receptors interdomain interaction. May play a role in embryonal development and tumor transformation or aspects of tumor progression; MAGE family
+MAGEA,MAGEA12,Xq28,CT1.12,"Melanoma-associated antigen 12; Not known, though may play a role tumor transformation or progression. In vitro promotes cell viability in melanoma cell lines; MAGE family"
+MAGEA,MAGEA2B,Xq28,,"Melanoma antigen family A, 2B; Reduces p53/TP53 transactivation function through recruitment of HDAC3 to p53/TP53 transcription sites. Also represses p73/TP73 activity. Proposed to enhance ubiquitin ligase activity of RING-type zinc finger-containing E3 ubiquitin-protein ligases. In vitro enhances ubiquitin ligase activity of TRIM28 and stimulates p53/TP53 ubiquitination by TRIM28 potentially in presence of Ubl-conjugating enzyme UBE2H. Proposed to act through recruitment and/or stabilization of the Ubl-conjugating enzyme (E2) at the E3:substrate complex. May play a role in embryonal d [...] "
+MAGEA,MAGEA9B,Xq28,,MAGE Family Member A9B
+MAGEB,MAGEB1,Xp21.3,CT3.1,Melanoma-associated antigen B1; MAGE family member B1
+MAGEB,MAGEB2,Xp21.3,CT3.2,Melanoma-associated antigen B2; May enhance ubiquitin ligase activity of RING-type zinc finger-containing E3 ubiquitin-protein ligases. Proposed to act through recruitment and/or stabilization of the Ubl-conjugating enzyme (E2) at the E3:substrate complex; MAGE family
+MAGEB,MAGEB5,Xp21.3,CT3.3,Melanoma-associated antigen B5; MAGE family member B5
+MAGEB,MAGEB6,Xp21.3,CT3.4,Melanoma-associated antigen B6; MAGE family member B6
+MAGEB,MAGEB3,Xp21.3,CT3.5,Melanoma-associated antigen B3; MAGE family member B3
+MAGEB,MAGEB4,Xp21.3,CT3.6,Melanoma-associated antigen B4; MAGE family member B4
+MAGEC1,MAGEC1,Xq26,CT7.1,Melanoma-associated antigen C1; MAGE family member C1
+MAGEC1,MAGEC3,Xq27.2,CT7.2,Melanoma-associated antigen C3; MAGE family member C3
+MAGEC2,MAGEC2,Xq27,CT10,Melanoma-associated antigen C2; Proposed to enhance ubiquitin ligase activity of RING- type zinc finger-containing E3 ubiquitin-protein ligases. In vitro enhances ubiquitin ligase activity of TRIM28 and stimulates p53/TP53 ubiquitination in presence of Ubl-conjugating enzyme UBE2H leading to p53/TP53 degradation. Proposed to act through recruitment and/or stabilization of the Ubl-conjugating enzymes (E2) at the E3:substrate complex; MAGE family
+MMA1,DSCR8,21q22.2,CT25.1a,Down syndrome critical region 8
+MMA1,DSCR8,21q22.2,CT25.1b,RNA gene
+MORC,MORC1,3q13,CT33,MORC family CW-type zinc finger protein 1; Required for spermatogenesis; Zinc fingers CW-type
+MPHOSPH1,KIF20B ,10q23.31,CT90,"Kinesin-like protein KIF20B; Plus-end-directed motor enzyme that is required for completion of cytokinesis. Required for proper midbody organization and abscission in polarized cortical stem cells. Plays a role in the regulation of neuronal polarization by mediating the transport of specific cargos. Participates in the mobilization of SHTN1 and in the accumulation of PIP3 in the growth cone of primary hippocampal neurons in a tubulin and actin-dependent manner. In the developing telencephalon, cooperates with SHTN1 to promote both the transition from the multipolar to the bipolar stage [...] "
+NA88A pseudogene,VENTXP1,Xp21.3,CT18,"	VENT Homeobox Pseudogene 1"
+NLRP4,NLRP4,19q13.42,CT58,"NACHT, LRR and PYD domains-containing protein 4; May be involved in inflammation and recognition of cytosolic pathogen-associated molecular patterns (PAMPs) not intercepted by membrane-bound receptors. Acts as a negative regulator of the type I interferon signaling pathway by serving as an adapter to promote DTX4-mediated ubiquitination of activated TBK1, and its subsequent degradation. Suppresses NF-kappaB induction by the cytokines TNFA and IL1B, suggesting that it operates at a point of convergence in these two cytokine signaling pathways; Belongs to the NLRP family"
+NOL4,NOL4,18q12,CT 125,Nucleolar protein 4
+NR6A1,NR6A1,9q33.3,CT150,Nuclear receptor subfamily 6 group A member 1; Orphan nuclear receptor. Binds to a response element containing the sequence 5'-TCAAGGTCA-3'. May be involved in the regulation of gene expression in germ cell development during gametogenesis (By similarity); Nuclear hormone receptors
+NUF2/CDCA1,CDCA1,1q23.3,CT106,"Kinetochore protein Nuf2; Acts as a component of the essential kinetochore- associated NDC80 complex, which is required for chromosome segregation and spindle checkpoint activity. Required for kinetochore integrity and the organization of stable microtubule binding sites in the outer plate of the kinetochore. The NDC80 complex synergistically enhances the affinity of the SKA1 complex for microtubules and may allow the NDC80 complex to track depolymerizing microtubules"
+NXF2,NXF2,Xq22.1,CT39,Nuclear RNA export factor 2; Involved in the export of mRNA from the nucleus to the cytoplasm; Belongs to the NXF family
+NXF2,NXF2B,Xq22.1,,Nuclear RNA export factor 2B; Involved in the export of mRNA from the nucleus to the cytoplasm
+NY-ESO-1,CTAG1B,Xq28,CT6.1,Cancer/testis antigen 1B; Belongs to the CTAG/PCC1 family
+NY-ESO-1,LAGE-1b,Xq28,CT6.2b,Cancer/testis antigen 2
+NY-ESO-1,CTAG2,Xq28,CT6.2a,Cancer/testis antigen 2
+NY-ESO-1,CTAG1A,Xq28,,Cancer/testis antigen 1A; Belongs to the CTAG/PCC1 family
+NY-SAR-35,FMR1NB,Xq27.3-q28,CT37,Fragile X mental retardation 1 neighbor protein; FMR1 neighbor
+ODF1,ODF1,8q22.3,CT133,Outer dense fiber protein 1; Component of the outer dense fibers (ODF) of spermatozoa. ODF are filamentous structures located on the outside of the axoneme in the midpiece and principal piece of the mammalian sperm tail and may help to maintain the passive elastic structures and elastic recoil of the sperm tail; Small heat shock proteins
+ODF2,ODF2,9q34.11,CT134,Outer dense fiber protein 2; Seems to be a major component of sperm tail outer dense fibers (ODF). ODFs are filamentous structures located on the outside of the axoneme in the midpiece and principal piece of the mammalian sperm tail and may help to maintain the passive elastic structures and elastic recoil of the sperm tail. May have a modulating influence on sperm motility. Functions as a general scaffold protein that is specifically localized at the distal/subdistal appendages of mother centrioles. Component of the centrosome matrix required for the localization of PLK1 and NIN to th [...] 
+ODF3,ODF3,11p15.5,CT135,Outer dense fiber protein 3; Outer dense fibers are filamentous structures located on the outside of the axoneme in the midpiece and principal piece of the mammalian sperm tail. May help to maintain the passive elastic structures and elastic recoil of the sperm tail
+ODF4,ODF4,17p13.1,CT136,"Outer dense fiber protein 4; Component of the outer dense fibers (ODF) of spermatozoa which could be involved in sperm tail structure, sperm movement and general organization of cellular cytoskeleton"
+OIP5,OIP5,15q15.1,CT86,Protein Mis18-beta; Required for recruitment of CENPA to centromeres and normal chromosome segregation during mitosis; Belongs to the mis18 family
+OTOA,OTOA,16p12.2,CT108,Otoancorin; May act as an adhesion molecule; Belongs to the stereocilin family
+PAGE-5,PAGE5,Xp11.21,CT16.1,PAGE family member 5; Belongs to the GAGE family
+PAGE-5,CT16.2,X911.21,CT16.2,PAGE family member 5; Belongs to the GAGE family
+PAGE-5,PAGE1,Xp11.23,CT16.3,PAGE family member 1
+PAGE-5,PAGE2,Xp11.21,CT16.4,PAGE family member 2
+PAGE-5,PAGE2B,Xp11.21,CT16.5,PAGE family member 2B; Belongs to the GAGE family
+PAGE-5,PAGE3,Xp11.21,CT16.6,PAGE family member 3
+PAGE-5,PAGE4,Xp11.23,CT16.7,PAGE family member 4
+PASD1,PASD1,Xq28,CT63,"Circadian clock protein PASD1; Functions as a suppressor of the biological clock that drives the daily circadian rhythms of cells throughout the body. Acts as a nuclear repressor of the CLOCK- ARNTL/BMAL1 heterodimer-mediated transcriptional activation of the core clock components. Inhibits circadian clock function in cancer cells, when overexpressed"
+PBK,PBK,8p21.2,CT84,"Lymphokine-activated killer T-cell-originated protein kinase; Phosphorylates MAP kinase p38. Seems to be active only in mitosis. May also play a role in the activation of lymphoid cells. When phosphorylated, forms a complex with TP53, leading to TP53 destabilization and attenuation of G2/M checkpoint during doxorubicin-induced DNA damage; Belongs to the protein kinase superfamily. STE Ser/Thr protein kinase family. MAP kinase kinase subfamily"
+PIWIL,PIWIL1,12q24.33,CT80.1,PIWIL1
+PIWIL,PIWIL2,8p21.3,CT80.2,"Piwi-like protein 2; Endoribonuclease that plays a central role during spermatogenesis by repressing transposable elements and preventing their mobilization, which is essential for the germline integrity (By similarity). Plays an essential role in meiotic differentiation of spermatocytes, germ cell differentiation and in self-renewal of spermatogonial stem cells (By similarity). Acts via the piRNA metabolic process, which mediates the repression of transposable elements during meiosis by forming complexes composed of piRNAs and Piwi proteins and govern the methylation and subsequent re [...] "
+PLAC1,PLAC1,Xq26,CT92,Placenta-specific protein 1; May play a role in placental development; Belongs to the PLAC1 family
+POTE,POTED,21q11.2,CT104.1,POTE ankyrin domain family member D; Belongs to the POTE family
+POTE,POTEE,2q21.1,CT104.2,POTE ankyrin domain family member E; In the C-terminal section; belongs to the actin family
+POTE,POTEA,8p11.1,CT104.3,#N/A
+POTE,POTEG,14q11.1,CT104.4,POTE ankyrin domain family member G; Belongs to the POTE family
+POTE,POTEB,15q11.2,CT104.5,POTE ankyrin domain family member B2; Belongs to the POTE family
+POTE,POTEC,18p11.21,CT104.6,POTE ankyrin domain family member C
+POTE,POTEH,22q11.1,CT104.7,POTE ankyrin domain family member H
+PRAME,PRAME,22q11.22,CT130,"Melanoma antigen preferentially expressed in tumors; Functions as a transcriptional repressor, inhibiting the signaling of retinoic acid through the retinoic acid receptors RARA, RARB and RARG. Prevents retinoic acid-induced cell proliferation arrest, differentiation and apoptosis; PRAME family"
+PRM,PRM1,16p13.2,CT94.1,"Sperm protamine P1; Protamines substitute for histones in the chromatin of sperm during the haploid phase of spermatogenesis. They compact sperm DNA into a highly condensed, stable and inactive complex"
+PRM,PRM2,16p13.2,CT94.2,"Protamine-2; Protamines substitute for histones in the chromatin of sperm during the haploid phase of spermatogenesis. They compact sperm DNA into a highly condensed, stable and inactive complex"
+PRSS54,PRSS54,16q21,CT67,Serine protease 54
+PRSS55,PRSS55,8p23.1,CT153,Serine protease 55; Probable serine protease
+PTPN20A,PTPN20A,10q11.22,CT 126,Tyrosine-protein phosphatase non-receptor type 20; Tyrosine-protein phosphatase targeted to sites of actin polymerization in response of varied extracellular stimuli. Has tyrosine phosphatase activity towards various tyrosyl phosphorylated substrates
+RBM46,RBM46,4q32.1,CT68,Probable RNA-binding protein 46; RNA binding motif containing
+RGS22,RGS22,8q22.2,CT145,Regulator of G-protein signaling 22; Inhibits signal transduction by increasing the GTPase activity of G protein alpha subunits thereby driving them into their inactive GDP-bound form; Regulators of G-protein signaling
+RHOXF2/PEPP2,PEPP2,Xq24,CT107,Rhox homeobox family member 2; Transcription factor maybe involved in reproductive processes. Modulates expression of target genes encoding proteins involved in processes relevant to spermatogenesis; PRD class homeoboxes and pseudogenes
+ROPN1,ROPN1,3q21.1,CT91,"Ropporin-1A; Important for male fertility. With ROPN1L, involved in fibrous sheath integrity and sperm motility, plays a role in PKA- dependent signaling processes required for spermatozoa capacitation; Belongs to the ropporin family"
+RQCD1,RQCD1,2q35,CT 129,"CCR4-NOT transcription complex subunit 9; Component of the CCR4-NOT complex which is one of the major cellular mRNA deadenylases and is linked to various cellular processes including bulk mRNA degradation, miRNA-mediated repression, translational repression during translational initiation and general transcription regulation. Additional complex functions may be a consequence of its influence on mRNA expression. Involved in down-regulation of MYB- and JUN-dependent transcription. May play a role in cell differentiation (By similarity). Can bind oligonucleotides, such as poly-G, poly-C o [...] "
+SAGE,SAGE1,Xq26,CT14,Sarcoma antigen 1
+SEMG1,SEMG1,20q12-q13.2,CT103,Semenogelin-1; Predominant protein in semen. It participates in the formation of a gel matrix entrapping the accessory gland secretions and ejaculated spermatozoa. Fragments of semenogelin and/or fragments of the related proteins may contribute to the activation of progressive sperm movements as the gel-forming proteins are fragmented by KLK3/PSA
+SGY-1,DKKL1,19q13.33,CT34,"Dickkopf-like protein 1; Involved in fertilization by facilitating sperm penetration of the zona pellucida. May promotes spermatocyte apoptosis, thereby limiting sperm production. In adults, may reduces testosterone synthesis in Leydig cells. Is not essential either for development or fertility"
+SLCO6A1,SLCO6A1,5q21.1,CT48,Solute carrier organic anion transporter family member 6A1
+SPA17,SPA17,11q24.2,CT22,Sperm surface protein Sp17; Sperm surface zona pellucida binding protein. Helps to bind spermatozoa to the zona pellucida with high affinity. Might function in binding zona pellucida and carbohydrates (By similarity)
+SPACA3,SPACA3,17q11.2,CT54,"Sperm acrosome membrane-associated protein 3; Sperm surface membrane protein that may be involved in sperm-egg plasma membrane adhesion and fusion during fertilization. It could be a potential receptor for the egg oligosaccharide residue N-acetylglucosamine, which is present in the extracellular matrix over the egg plasma membrane. The processed form has no detectable bacteriolytic activity in vitro; Lysozymes, c-type"
+SPAG1,SPAG1,8q22.2,CT140,Sperm-associated antigen 1; May play a role in the cytoplasmic assembly of the ciliary dynein arms (By similarity). May play a role in fertilization. Binds GTP and has GTPase activity; Tetratricopeptide repeat domain containing
+SPAG17,SPAG17,1p12,CT143,"Sperm-associated antigen 17; Component of the central pair apparatus of ciliary axonemes. Plays a critical role in the function and structure of motile cilia. May play a role in endochondral bone formation, most likely because of a function in primary cilia of chondrocytes and osteoblasts"
+SPAG4,SPAG4,20q11.21,CT 127,Sperm-associated antigen 4 protein; Involved in spermatogenesis. Required for sperm head formation but not required to establish and maintain general polarity of the sperm head. Required for anchoring and organization of the manchette. Required for targeting of SUN3 and probably SYNE1 through a probable SUN1:SYNE3 LINC complex to the nuclear envelope and involved in accurate posterior sperm head localization of the complex. May anchor SUN3 the nuclear envelope. Involved in maintenance of the nuclear envelope integrity. May assist the organization and assembly of outer dense fibers (ODF [...] 
+SPAG6,SPAG6,10p12.2,CT141,Sperm-associated antigen 6; Important for structural integrity of the central apparatus in the sperm tail and for flagellar motility; Armadillo repeat containing
+SPAG8,SPAG8,9p13.3,CT142,"Sperm-associated antigen 8; Plays a role in spermatogenesis by enhancing the binding of CREM isoform tau to its coactivator FHL5 and increasing the FHL5-regulated transcriptional activation of CREM isoform tau (By similarity). Involved in the acrosome reaction and in binding of sperm to the zona pellucida (By similarity). Plays a role in regulation of the cell cycle by controlling progression through the G2/M phase, possibly by delaying the activation of CDK1 which is required for entry into mitosis. May play a role in fertility and microtubule formation through interaction with RANBP9 [...] "
+SPAG9,SPAG9,17q21.33,CT89,C-Jun-amino-terminal kinase-interacting protein 4; The JNK-interacting protein (JIP) group of scaffold proteins selectively mediates JNK signaling by aggregating specific components of the MAPK cascade to form a functional JNK signaling module. Isoform 5 may play a role in spermatozoa-egg- interaction
+SPANX,SPANXA1,Xq27.1,CT11.1,"Sperm protein associated with the nucleus, X-linked, family member A1; Belongs to the SPAN-X family"
+SPANX,SPANXB1,Xq27.1,CT11.2,"Sperm protein associated with the nucleus on the X chromosome B1; SPANX family, member B2"
+SPANX,SPANXC,Xq27.1,CT11.3,Sperm protein associated with the nucleus on the X chromosome C; SPANX family member C; Belongs to the SPAN-X family
+SPANX,SPANXD,Xq27.1,CT11.4,Sperm protein associated with the nucleus on the X chromosome D; SPANX family member D; Belongs to the SPAN-X family
+SPANX,SPANXN1,Xq27,CT11.6,Sperm protein associated with the nucleus on the X chromosome N1; SPANX family member N1; Belongs to the SPAN-X family
+SPANX,SPANXN2,Xq27.3,CT11.7,Sperm protein associated with the nucleus on the X chromosome N2; SPANX family member N2
+SPANX,SPANXN3,Xq27.3,CT11.8,Sperm protein associated with the nucleus on the X chromosome N3; SPANX family member N3; Belongs to the SPAN-X family
+SPANX,SPANXN4,Xq27.3,CT11.9,Sperm protein associated with the nucleus on the X chromosome N4; SPANX family member N4; Belongs to the SPAN-X family
+SPANX,SPANXN5,Xp11.22,CT11.10,Sperm protein associated with the nucleus on the X chromosome N5; SPANX family member N5; Belongs to the SPAN-X family
+SPANX,SPANXA2,Xq27.1,,SPANX family member A2
+SPANX,SPANXB2,Xq27.1,,"Sperm protein associated with the nucleus on the X chromosome B1; SPANX family, member B2"
+SPANX,SPANXE,Xq27.2,,Sperm protein associated with the nucleus on the X chromosome C; SPANX family member C; Belongs to the SPAN-X family
+SPATA19,SPATA19,11q25,CT132,"Spermatogenesis-associated protein 19, mitochondrial; May have a role in spermiogenesis"
+SPEF2,SPEF2,5p13.2,CT 122,Sperm flagellar protein 2; Required for correct axoneme development
+SPINLW1,SPINLW1,20q12-q13.2,CT71,"Eppin; Serine protease inhibitor that plays an essential role in male reproduction and fertility. Modulates the hydrolysis of SEMG1 by KLK3/PSA (a serine protease), provides antimicrobial protection for spermatozoa in the ejaculate coagulum, and binds SEMG1 thereby inhibiting sperm motility; WAP four-disulfide core domain containing"
+SPO11,SPO11,20q13.2-q13.3,CT35,"Meiotic recombination protein SPO11; Component of a topoisomerase 6 complex specifically required for meiotic recombination. Together with TOP6BL, mediates DNA cleavage that forms the double-strand breaks (DSB) that initiate meiotic recombination. The complex promotes relaxation of negative and positive supercoiled DNA and DNA decatenation through cleavage and ligation cycles. Essential for the phosphorylation of SMC3, HORMAD1 and HORMAD2"
+SSX,SSX1,Xp11.23-p11.22,CT5.1,Protein SSX1; Could act as a modulator of transcription; Belongs to the SSX family
+SSX,SSX2,Xp11.22,CT5.2a,"Synovial sarcoma, X breakpoint 2; SSX family member 2"
+SSX,SSX2b,Xp11.22,CT5.2b,"Synovial sarcoma, X breakpoint 2B; SSX family member 2B"
+SSX,SSX3,Xp11.23,CT5.3,Protein SSX3; Could act as a modulator of transcription; Belongs to the SSX family
+SSX,SSX4,Xp11.23,CT5.4,"Synovial sarcoma, X breakpoint 4; Could act as a modulator of transcription"
+SSX,SSX4B,Xp11.23,,Protein SSX4; Could act as a modulator of transcription
+SSX,SSX5,Xp11.23,,"Synovial sarcoma, X breakpoint 5; SSX family member 5"
+SSX,SSX6,Xp11.2,,#N/A
+SSX,SSX7,Xp11.23,,Protein SSX7; Could act as a modulator of transcription
+SSX,SSX9,Xp11.23,,#N/A
+SYCE1,SYCE1,10q26.3,CT76,"Synaptonemal complex central element protein 1; Major component of the transverse central element of synaptonemal complexes (SCS), formed between homologous chromosomes during meiotic prophase. Requires SYCP1 in order to be incorporated into the central element. May have a role in the synaptonemal complex assembly, stabilization and recombination"
+SYCP1,SYCP1,1p13-p12,CT8,"Synaptonemal complex protein 1; Major component of the transverse filaments of synaptonemal complexes (SCS), formed between homologous chromosomes during meiotic prophase. Required for normal assembly of the central element of the synaptonemal complexes. Required for normal centromere pairing during meiosis. Required for normal meiotic chromosome synapsis during oocyte and spermatocyte development and for normal male and female fertility"
+TAF7L,TAF7L,Xq22.1,CT40,"Transcription initiation factor TFIID subunit 7-like; Probably functions as a spermatogensis-specific component of the DNA-binding general transcription factor complex TFIID, a multimeric protein complex that plays a central role in mediating promoter responses to various activators and repressors. May play a role in spermatogenesis (By similarity)"
+TAG,TAG,5p15.2,CT49,"Histone deacetylase 7; Responsible for the deacetylation of lysine residues on the N-terminal part of the core histones (H2A, H2B, H3 and H4). Histone deacetylation gives a tag for epigenetic repression and plays an important role in transcriptional regulation, cell cycle progression and developmental events. Histone deacetylases act via the formation of large multiprotein complexes. Involved in muscle maturation by repressing transcription of myocyte enhancer factors such as MEF2A, MEF2B and MEF2C. During muscle differentiation, it shuttles into the cytoplasm, allowing the expression  [...] "
+TDRD,TDRD4,13q12.12,CT41.3,"RING finger protein 17; Seems to be involved in regulation of transcriptional activity of MYC. In vitro, inhibits DNA-binding activity of Mad- MAX heterodimers. Can recruit Mad transcriptional repressors (MXD1, MXD3, MXD4 and MXI1) to the cytoplasm. May be involved in spermiogenesis (By similarity); Ring finger proteins"
+TDRD1,TDRD1,10q25.3,CT41.1,"Tudor domain-containing protein 1; Plays a central role during spermatogenesis by participating in the repression transposable elements and preventing their mobilization, which is essential for the germline integrity. Acts via the piRNA metabolic process, which mediates the repression of transposable elements during meiosis by forming complexes composed of piRNAs and Piwi proteins and governs the methylation and subsequent repression of transposons. Required for the localization of Piwi proteins to the meiotic nuage. Involved in the piRNA metabolic process by ensuring the entry of corr [...] "
+TDRD1,TDRD6,6p12.3,CT41.2,"Tudor domain-containing protein 6; Involved in spermiogenesis, chromatoid body formation and for proper precursor and mature miRNA expression; Tudor domain containing"
+TEKT,TEKT5,16p13.13,CT149,Tektin-5; May be a structural component of the sperm flagellum; Tektins
+TEX101,TEX101,19q13.31,CT131,Testis-expressed protein 101; Plays a role in fertilization by controlling binding of sperm to zona pellucida and migration of spermatozoa into the oviduct (By similarity). May play a role in signal transduction and promote protein tyrosine phosphorylation (By similarity); LY6/PLAUR domain containing
+TEX14,TEX14,17q22,CT 113,"Inactive serine/threonine-protein kinase TEX14; Required both for the formation of intercellular bridges during meiosis and for kinetochore-microtubule attachment during mitosis. Intercellular bridges are evolutionarily conserved structures that connect differentiating germ cells and are required for spermatogenesis and male fertility. Acts by promoting the conversion of midbodies into intercellular bridges via its interaction with CEP55: interaction with CEP55 inhibits the interaction between CEP55 and PDCD6IP/ALIX and TSG101, blocking cell abscission and leading to transform midbodie [...] "
+TEX15,TEX15,8p12,CT42,"Testis-expressed protein 15; Required during spermatogenesis for normal chromosome synapsis and meiotic recombination in germ cells. Necessary for formation of DMC1 and RAD51 foci on meiotic chromosomes, suggesting a specific role in DNA double-stranded break repair"
+THEG,THEG,19pter-p13,CT56,Testicular haploid expressed gene protein; May be involved (but not essential) in spermatogenesis
+TMEFF,TMEFF1,9q31,CT 120.1,Tomoregulin-1; May inhibit NODAL and BMP signaling during neural patterning (By similarity). May be a tumor suppressor in brain cancers
+TMEFF,TMEFF2,2q32.3,CT 120.2,"Tomoregulin-2; May be a survival factor for hippocampal and mesencephalic neurons. The shedded form up-regulates cancer cell proliferation, probably by promoting ERK1/2 phosphorylation"
+TMEM108,TMEM108,3q21,CT 124,"Transmembrane protein 108; Transmembrane protein required for proper cognitive functions. Involved in the development of dentate gyrus (DG) neuron circuitry, is neccessary for AMPA receptors surface expression and proper excitatory postsynaptic currents of DG granule neurons. Regulates the organization and stability of the microtubule network of sensory neurons to allow axonal transport. Through the interaction with DST, mediates the docking of the dynein/dynactin motor complex to vesicle cargos for retrograde axonal transport. In hippocampal neurons, required for BDNF- dependent dendr [...] "
+TMPRSS12,TMPRSS12,12q13.12,CT151,Transmembrane serine protease 12; Belongs to the peptidase S1 family
+TPPP2,TPPP2,14q11.2,CT152,Tubulin polymerization-promoting protein family member 2; May bind tubulin but has no microtubule bundling activity; Tubulin polymerization promoting proteins
+TPTE,TPTE,21p11,CT44,Putative tyrosine-protein phosphatase TPTE; Could be involved in signal transduction; C2 tensin-type domain containing
+TPX1,CRISP2,6p21-qter,CT36,Cysteine-rich secretory protein 2; May regulate some ion channels' activity and therebye regulate calcium fluxes during sperm capacitation; Cysteine rich secretory protein family
+TSGA10,TSGA10,2q11.2,CT79,"Testis-specific gene 10 protein; May play a role in the sperm tail fibrous sheath, a major sperm tail structure; Belongs to the CEP135/TSGA10 family"
+TSP50,TSP50,3p14-p12,CT20,Probable threonine protease PRSS50; May be involved in proteolysis through its threonine endopeptidase activity; Belongs to the peptidase S1 family
+TSPY1,TSPY3,Yp11.2,CT78,#N/A
+TSPY1,LOC728137,Yp11.2,,Testis Specific Protein Y-Linked 1
+TSPY1,TSPY1D,Yp11.2,,#N/A
+TSPY1,TSPY1E,Yp11.2,,#N/A
+TSPY1,TSPY1F,Yp11.2,,#N/A
+TSPY1,TSPY1G,Yp11.2,,#N/A
+TSPY1,TSPY1H,Yp11.2,,#N/A
+TSPY1,TSPY1I,Yp11.2,,#N/A
+TSPY1,TSPY2,Yp11.2,,Testis Specific Protein Y-Linked 2
+TSSK6,TSSK6,19p13.11,CT72,Testis-specific serine/threonine-protein kinase 6; Required for sperm production and function. Plays a role in DNA condensation during postmeiotic chromatin remodeling (By similarity)
+TULP2,TULP2,19q13.1,CT65,Tubby like protein 2; Belongs to the TUB family
+XAGE,XAGE1D,Xp11.22,CT12.1d,X antigen family member 1A
+XAGE,XAGE1C,Xp11.22,CT12.1c,X antigen family member 1A
+XAGE,XAGE1B,Xp11.22,CT12.1b,X antigen family member 1B; Belongs to the GAGE family
+XAGE,XAGE1,Xp11.22,CT12.1a,X antigen family member 1A
+XAGE,XAGE2,Xp11.22,CT12.2,"X antigen family, member 2B"
+XAGE,XAGE3,Xp11.22-p11.21,CT12.3a,X antigen family member 3
+XAGE,XAGE-3b,Xp11.22,CT12.3b,#N/A
+XAGE,XAGE-4/RP11-167P23.2,Xp11.21,CT12.4,#N/A
+XAGE,XAGE5,Xp11.22,CT12.5,X antigen family member 5; Belongs to the GAGE family
+XAGE,XAGE1E,Xp11.22,,X antigen family member 1A
+XAGE,XAGE2B/CTD-2267G17.3,Xp11.22,,#N/A
+ZNF165,ZNF165,6p21.3,CT53,Zinc finger protein 165; May be involved in transcriptional regulation; Belongs to the krueppel C2H2-type zinc-finger protein family
+ZNF645,ZNF645,Xp22.11,CT138,E3 ubiquitin-protein ligase ZNF645; E3 ubiquitin ligase catalyzing the covalent attachment of ubiquitin moieties onto substrate proteins. May operate on tyrosine-phosphorylated SRC substrates
