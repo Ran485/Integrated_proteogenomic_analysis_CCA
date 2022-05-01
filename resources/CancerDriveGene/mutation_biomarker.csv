@@ -1,0 +1,1084 @@
+Gene,Alteration type,Drug family,Drug
+AKT1,MUT,[BRAF inhibitor],[]
+ABL1,MUT,VEGFR inhibitor,Axitinib
+ABL1,FUS,BCR-ABL inhibitor  3rd gen,Bosutinib
+ABL1,MUT,BCR-ABL inhibitor  3rd gen,Bosutinib
+ARAF,MUT,[BRAF inhibitor;EGFR mAb inhibitor],[]
+ABL1,MUT,Pan-kinase inhibitor,Cabozantinib
+ABL1,MUT,ALK inhibitor,Crizotinib
+ABL1,FUS,BCR-ABL inhibitor 2nd gen,Dasatinib
+ABL1,MUT,BCR-ABL inhibitor 2nd gen,Dasatinib
+ARAF,MUT,[BRAF inhibitor;MEK inhibitor],[]
+ABL1,FUS,BCR-ABL inhibitor 2nd gen;BCL2 inhibitor,Dasatinib;Venetoclax
+ABL1,MUT,MET inhibitor,Foretinib 
+ABL1,FUS,BCR-ABL inhibitor 1st gen&KIT inhibitor,Imatinib
+B2M,MUT,[PD1 Ab inhibitor],[]
+ABL1,FUS,BCR-ABL inhibitor 2nd gen,Nilotinib
+ABL1,MUT,BCR-ABL inhibitor 2nd gen,Nilotinib
+ABL1,FUS,BCR-ABL inhibitor 3rd gen&Pan-TK inhibitor,Ponatinib
+ABL1,MUT,BCR-ABL inhibitor 3rd gen&Pan-TK inhibitor,Ponatinib
+ABL1,MUT,BCR-ABL inhibitor 3rd gen&Pan-TK inhibitor,Ponatinib
+ABL1,MUT,Pan-TK inhibitor,Vandetanib
+AKT1,MUT,[AKT inhibitor],[]
+AKT1,MUT,[allosteric AKT inhibitor],[]
+BRAF,MUT,[EGFR TK inhibitor],[]
+AKT1,MUT,[non-allosteric AKT inhibitor],[]
+AKT1,MUT,[PI3K pathway inhibitor],[]
+AKT1,MUT,MTOR inhibitor,Everolimus
+AKT1,MUT,MTOR inhibitor,Tensirolimus
+AKT2,CNA,Allosteric AKT inhibitor,MK2206
+AKT3,FUS,[ATP competitive AKT inhibitor],"[AZD5363,GSK2141795]"
+ALK,FUS,[ALK inhibitor;IGF1R inhibitor],[]
+ALK,FUS,[ALK inhibitor;MEK inhibitor],[]
+ALK,FUS,[ALK inhibitor;SRC inhibitor],[]
+ALK,FUS,[ALK inhibitor],[]
+ALK,FUS,[HSP90 inhibitor],[]
+ALK,FUS,[novel ALK inhibitor],[]
+ALK,MUT,[novel ALK inhibitor],[]
+ALK,FUS,ALK inhibitor,Alectinib
+ALK,FUS,ALK inhibitor,Alectinib
+CCND1,CNA,[SMO inhibitor],[]
+ALK,CNA,Pan-TK inhibitor,Brigatinib
+ALK,MUT,Pan-TK inhibitor,Brigatinib
+ALK,MUT,Pan-TK inhibitor,Brigatinib
+ALK,FUS,ALK inhibitor,Ceritinib
+ALK,FUS,ALK inhibitor,Ceritinib
+ALK,FUS,ALK inhibitor,Ceritinib
+ALK,MUT,ALK inhibitor,Ceritinib
+CTNNB1,MUT,[Tankyrase inhibitor],[]
+ALK,MUT,ALK inhibitor,Ceritinib
+ALK,FUS,ALK inhibitor,Crizotinib
+ALK,FUS,ALK inhibitor,Crizotinib
+ALK,FUS,ALK inhibitor,Crizotinib
+EGFR,MUT,[EGFR inhibitor 1st gen],[]
+EGFR,MUT,[EGFR inhibitor 1st gen],[]
+EGFR,CNA,[EGFR inhibitor 1st gen],[]
+EGFR,MUT,[EGFR inhibitor 1st gen],[]
+EGFR,MUT,[EGFR inhibitor 1st gen],[]
+EGFR,MUT,[EGFR inhibitor 2nd gen],[]
+ALK,MUT,ALK inhibitor,Crizotinib
+EGFR,CNA,[EGFR inhibitor 2nd gen],[]
+ALK,MUT,ALK inhibitor,Crizotinib
+ALK,MUT,ALK inhibitor,Crizotinib
+ALK,FUS,Pan-TK inhibitor,Entrictinib
+ALK,FUS,ALK&ROS1 inhibitor,Lorlatinib
+ALK,FUS,Pan-TK inhibitor,Brigatinib
+ALK,MUT,ALK&ROS1 inhibitor,Lorlatinib
+APC,MUT,[Tankyrase inhibitor],[]
+EGFR,MUT,[EGFR inhibitor 2nd gen],[]
+EGFR,MUT,[EGFR inhibitor 3rd gen],[]
+EGFR,CNA,[EGFR inhibitor 3rd gen],[]
+AR,CNA,[AR inhibitor next gen],[]
+AR,EXPR,[AR inhibitor],"[Bicalutamide,Enzalutamide,Orterone,4OHtestosterone]"
+ERBB2,CNA,[EGFR inhibitor],[]
+ERBB2,CNA,[EGFR mAb inhibitor],[]
+ERBB3,CNA,[EGFR mAb inhibitor],[]
+ESR1,FUS,[ESR1 inhibitor],[]
+AR,EXPR,AR inhibitor,Enzalutamide
+FBXW7,MUT,[Tubulin inhibitor],[]
+AR;AR,MUT;MUT,AR inhibitor,Enzalutamide
+FBXW7,CNA,[Tubulin inhibitor],[]
+FGFR2;FGFR2,MUT;FUS,[FGFR inhibitor],[]
+ARAF,MUT,Pan-TK inhibitor,Sorafenib
+AREG,CNA,[EGFR mAb inhibitor],[]
+ARID1A,MUT,[ATR inhibitors],[]
+ARID1A,MUT,[EZH2 inhibitor],[]
+ARID1A,MUT,[PARP inhibitor],[]
+FGFR3,MUT,[FGFR inhibitor],[]
+GLI2,CNA,[SMO inhibitor],[]
+ATM,MUT,[ATR inhibitor],[]
+ATM,CNA,[ATR inhibitor],[]
+ATM,MUT,[DNA-PKc inhibitor],[]
+ATM,CNA,[DNA-PKc inhibitor],[]
+ATM,MUT,[PARP inhibitor],[]
+ATM,CNA,[PARP inhibitor],[]
+ATM,BIA,ATR inhibitor,AZD6738
+ATM,MUT,Chemotherapy,Cisplatin
+ATM,CNA,Chemotherapy,Cisplatin
+ATM,MUT,PARP inhibitor,Olaparib
+ATM,MUT,Chemotherapy,Temozolomide
+ATR,MUT,PARP inhibitor,Olaparib
+ATR,CNA,PARP inhibitor,Olaparib
+ATR,MUT,Chemotherapy,Temozolomide
+AURKA,CNA,[AURK inhibitor],[]
+IGF2,CNA,[EGFR mAb inhibitor],[]
+BAP1,MUT,[EZH2 inhibitor],[]
+BAP1,CNA,[EZH2 inhibitor],[]
+BAP1,MUT,[HDAC inhibitor],[]
+BAP1,CNA,[HDAC inhibitor],[]
+BAP1,MUT,[PARP inhibitor],[]
+BAP1,CNA,[PARP inhibitor],[]
+BCL2,EXPR,BCL2 inhibitor;Proteasome inhibitor,Venetoclax;Bortezomib
+BCL2,CNA,[BCL2 inhibitor],[]
+BCL6,EXPR,HSP90 inhibitor,Onalespib
+BCOR,MUT,PKCb inhibitor,Enzastaurin
+JAK1,MUT,[PD1 inhibitor],[]
+JAK1,MUT,[PD1 inhibitor],[]
+JAK2,MUT,[PD1 inhibitor],[]
+BRAF,MUT,[BRAF inhibitor;CDK2/4 inhibitor],[]
+BRAF,MUT,[BRAF inhibitor;EGFR mAb inhibitor +/- PI3K inhibitor],[]
+BRAF,MUT,[BRAF inhibitor;HSP90 inhibitor],[]
+BRAF,MUT,[BRAF inhibitor;MEK inhibitor],[]
+BRAF,FUS,[BRAF inhibitor;MEK inhibitor],[]
+BRAF,MUT,[BRAF inhibitor;PI3K pathway inhibitor],[]
+BRAF,MUT,[BRAF inhibitor],[]
+BRAF,MUT,[BRAF inhibitor],[]
+BRAF,MUT,[BRAF inhibitor],[]
+KRAS,MUT,[PI3K pathway inhibitor;MEK inhibitor],[]
+BRAF,MUT,[ERK inhibitor],[]
+BRAF,MUT,[ERK inhibitor],[]
+BRAF,MUT,[ERK inhibitor],[]
+BRAF,MUT,[ERK inhibitor],[]
+BRAF,MUT,[MEK inhibitor],[]
+BRAF,MUT,[MEK inhibitor],[]
+BRAF,MUT,[Pan-RAF inhibitor],[]
+BRAF,MUT,[Pan-RAF inhibitor],[]
+BRAF,FUS,[MEK inhibitor],[Trametinib]
+BRAF,MUT,[MEK inhibitor],[Trametinib]
+KRAS,MUT,EGFR mAb inhibitor,Cetuximab
+BRAF,MUT,BRAF inhibitor,Dabrafenib
+BRAF,MUT,BRAF inhibitor,Dabrafenib
+BRAF,MUT,BRAF inhibitor,Dabrafenib
+BRAF,MUT,BRAF inhibitor,Dabrafenib
+BRAF,MUT,BRAF inhibitor,Dabrafenib
+BRAF,MUT,BRAF inhibitor;MEK inhibitor,Dabrafenib;Trametinib
+BRAF,MUT,BRAF inhibitor;MEK inhibitor,Dabrafenib;Trametinib
+BRAF,MUT,BRAF inhibitor;MEK inhibitor,Dabrafenib;Trametinib
+BRAF,MUT,BRAF inhibitor;MEK inhibitor,Dabrafenib;Trametinib
+BRAF,MUT,BCR-ABL inhibitor 2nd gen,Dasatinib
+BRAF,MUT,BCR-ABL inhibitor 2nd gen,Dasatinib
+BRAF,MUT,TOPO1 inhibitor;BRAF inhibitor;EGFR mAb inhibitor,Irinotecan;Vemurafenib;Cetuximab
+KRAS,MUT,MEK inhibitor,Selumetinib
+BRAF,MUT,EGFR mAb inhibitor;BRAF inhibitor;PI3K inhibitor,Panitumumab;Dabrafenib;BYL719
+BRAF,MUT,EGFR mAb inhibitor;BRAF inhibitor;MEK inhibitor,Panitumumab;Dabrafenib;Trametinib
+BRAF,MUT,BRAF inhibitor,PLX4720
+BRAF,FUS,MEK inhibitor,Selumetinib
+BRAF,MUT,MEK inhibitor,Selumetinib
+BRAF,FUS,Pan-TK inhibitor,Sorafenib
+BRAF,MUT,Pan-TK inhibitor,Sorafenib
+BRAF,MUT,MEK inhibitor,Trametinib
+NRAS,MUT,EGFR mAb inhibitor,Cetuximab
+KRAS,CNA,[BRAF inhibitor;EGFR mAb inhibitor],[]
+BRAF,MUT,BRAF inhibitor,Vemurafenib
+BRAF,MUT,BRAF inhibitor,Vemurafenib
+BRAF,MUT,BRAF inhibitor,Vemurafenib
+BRAF,MUT,BRAF inhibitor,Vemurafenib
+BRAF,MUT,BRAF inhibitor,Vemurafenib
+BRAF,MUT,BRAF inhibitor,Vemurafenib
+BRAF,MUT,BRAF inhibitor;MEK inhibitor,Vemurafenib;Cobimetinib
+BRAF;EGFR,MUT;MUT,[EGFR TK inhibitor;MEK inhibitor],[]
+BRCA1,MUT,[PARP inhibitor;Chemotherapy],[]
+BRCA1,MUT,[PARP inhibitor],[]
+BRCA1,CNA,[PARP inhibitor],[]
+BRCA1,MUT,[WEE1 inhibitor],[]
+BRCA1,MUT,[PARP inhibitor],[Olaparib]
+BRCA1,MUT,PARP inhibitor,Olaparib
+BRCA1,MUT,PARP inhibitor,Olaparib
+BRCA1,MUT,Chemotherapy,Platinum Agent
+BRCA1,MUT,Chemotherapy,Platinum Agent
+BRCA1,MUT,PARP inhibitor,Rucaparib
+BRCA1,MUT,PARP inhibitor;Chemotherapy,Veliparib;Cisplatin
+BRCA2,MUT,[PARP inhibitor;Chemotherapy],[]
+BRCA2,MUT,[PD1 Ab inhibitor],[]
+BRCA2,MUT,[PARP inhibitor],[Olaparib]
+BRCA2,CNA,[PARP inhibitor],[Olaparib]
+BRCA2,MUT,PARP inhibitor,Olaparib
+BRCA2,MUT,PARP inhibitor,Olaparib
+BRCA2,MUT,Chemotherapy,Platinum Agent
+BRCA2,MUT,Chemotherapy,Platinum Agent
+BRCA2,MUT,Chemotherapy,Platinum Agent
+BRCA2,MUT,PARP inhibitor,Rucaparib
+BRCA2,MUT,PARP inhibitor;Chemotherapy,Veliparib;Cisplatin
+KRAS,CNA,[BRAF inhibitor;MEK inhibitor],[]
+C15orf55,FUS,[BET inhibitor],[]
+CA9,EXPR,Pan-TK inhibitor,Sunitinib
+CBL,MUT,[JAK inhibitor],[]
+CBL,MUT,BCR-ABL inhibitor 2nd gen,Dasatinib
+CCND1,CNA,[CDK4/6 inhibitor],[]
+CCND1,CNA,[CDK4/6 inhibitor],[]
+KRAS,MUT,EGFR mAb inhibitor,Cetuximab
+KRAS,MUT,[EGFR inhibitor],[]
+KRAS,MUT,[EGFR mAb inhibitor],[]
+CCND2,CNA,[CDK4/6 inhibitor],[]
+CCND2,CNA,CDK4/6 inhibitor,Palbociclib
+CCND3,CNA,[CDK4/6 inhibitor],[]
+CCNE1,CNA,[CDK2 inhibitor],[]
+CD274,CNA,[PD1 Ab inhibitor],[]
+CD274,CNA,[PDL1 inhibitor],[]
+CD274,EXPR,PDL1 inhibitor,Atezolizumab
+CD274,EXPR,PD1 Ab inhibitor,Nivolumab
+CD274,EXPR,PD1 Ab,Pembrolizumab
+CD69,EXPR,Alkylating agent,Bendamustine
+CDH1,MUT,AR inhibitor,Bicalutamide
+CDK12,MUT,[PARP inhibitors],[]
+CDK12,CNA,[PARP inhibitors],[]
+CDK4,MUT,CDK4/6 inhibitor,LEE011
+CDK4,CNA,CDK4/6 inhibitor,LEE011
+CDK4;RB1,CNA;EXPR,[CDK4 inhibitor],[]
+CDK6,CNA,[CDK6 inhibitor],[]
+CDK6,MUT,CDK4/6 inhibitor,LEE011
+CDK6,CNA,CDK4/6 inhibitor,LEE011
+CDKN1A,MUT,[CDK2/4 inhibitor],[]
+CDKN1A,CNA,[CDK2/4 inhibitor],[]
+CDKN1B,MUT,[CDK2/4 inhibitor],[]
+CDKN1B,CNA,[CDK2/4 inhibitor],[]
+CDKN2A,MUT,[CDK4/6 inhibitor],[]
+CDKN2A,MUT,[CDK4/6 inhibitor],[]
+CDKN2A,CNA,[CDK4/6 inhibitor],[]
+CDKN2A,CNA,[CDK4/6 inhibitor],[]
+CDKN2A,MUT,AURKA-VEGF inhibitor,Ilorasertib
+CDKN2A,CNA,AURKA-VEGF inhibitor,Ilorasertib
+CDKN2B,MUT,[CDK4/6 inhibitor],[]
+CDKN2B,CNA,[CDK4/6 inhibitor],[]
+CDKN2C,MUT,[CDK2 inhibitor],[]
+CDKN2C,CNA,[CDK2 inhibitor],[]
+CHEK2,MUT,PARP inhibitor,Olaparib
+CHEK2,CNA,PARP inhibitor,Olaparib
+MAP2K1,MUT,[BRAF inhibitor],[]
+MAP2K1,MUT,[BRAF inhibitor],[]
+MAP2K1,MUT,[EGFR mAb inhibitor],[]
+MAP2K1,MUT,[MEK inhibitor],[]
+MAP2K1,MUT,[MEK inhibitor],[]
+MAP2K1,MUT,[MEK inhibitor],[]
+CRLF2,FUS,[BET inhibitor],[]
+CRLF2,FUS,[MTOR inhibitor],[]
+CSF1R,MUT,BCR-ABL inhibitor 1st gen&KIT inhibitor,Imatinib
+CSF3R,MUT,BCR-ABL inhibitor 2nd gen,Dasatinib
+MAP2K2,MUT,[BRAF inhibitor],[]
+CTNNB1,MUT,MTOR inhibitor;Hormonal therapy,Everolimus;Letrozole
+CYP17A1,EXPR,AR inhibitor,Abiraterone
+CYP17A1,EXPR,AR inhibitor,Enzalutamide
+MAP2K2,MUT,[BRAF inhibitor],[]
+DDR2,MUT,BCR-ABL inhibitor 2nd gen,Dasatinib
+DDR2,MUT,BCR-ABL inhibitor 2nd gen,Dasatinib
+DDR2,MUT,EGFR inhibitor 1st gen,Erlotinib
+DNMT3A,MUT,Chemotherapy,Daunorubicin
+DPYD,MUT,Fluoropyrimidine,Capecitabine
+DPYD,BIA,Fluoropyrimidine,Capecitabine
+DPYD,MUT,Fluoropyrimidine,Capecitabine
+DPYD,MUT,Fluoropyrimidine,Flourouracil
+DPYD,BIA,Fluoropyrimidine,Flourouracil
+DPYD,MUT,Fluoropyrimidine,Flourouracil
+DPYD,MUT,Fluoropyrimidine,Tegafur
+DPYD,BIA,Fluoropyrimidine,Tegafur
+DPYD,MUT,Fluoropyrimidine,Tegafur
+MAP2K2,MUT,[MEK inhibitor],[]
+MAP2K2,MUT,[MEK inhibitor],[]
+MCL1,CNA,[Tubulin inhibitor],[]
+MET,CNA,[EGFR inhibitor 1st gen],[]
+MET,CNA,[EGFR mAb inhibitor],[]
+MET,MUT,[MET inhibitor],[]
+MET;EGFR,CNA;MUT,[EGFR TK inhibitor],[]
+MITF,CNA,[BRAF inhibitor],[]
+MITF,CNA,[BRAF inhibitor],[]
+MYCN,CNA,[SMO inhibitor],[]
+NF1,MUT,[Retinoic Acid],[]
+EGFR,MUT,[EGFR inhibitor 3rd gen],[]
+EGFR,CNA,[EGFR inhibitor],[]
+EGFR,CNA,[EGFR mAb inhibitor],[]
+EGFR,MUT,[EGFR TK inhibitor],[]
+EGFR,MUT,[EGFR TK inhibitor],[]
+EGFR,MUT,[HSP90 inhibitor],[]
+EGFR,MUT,[HSP90 inhibitor],[]
+EGFR,MUT,[HSP90 inhibitor],[]
+EGFR,MUT,[HSP90 inhibitor],[]
+EGFR,MUT,[MEK inhibitor (alone or in combination)],[]
+EGFR,MUT,[MEK inhibitor (alone or in combination)],[]
+EGFR,MUT,[novel EGFR mAb inhibitor],[]
+EGFR,MUT,[EGFR inhibitor 3rd gen],"[Rociletinib,HM61713]"
+EGFR,MUT,ERBB2 inhibitor&EGFR inhibitor 2nd gen,Afatinib
+EGFR,MUT,ERBB2 inhibitor&EGFR inhibitor 2nd gen,Afatinib
+EGFR,MUT,ERBB2 inhibitor&EGFR inhibitor 2nd gen,Afatinib
+EGFR,MUT,ERBB2 inhibitor&EGFR inhibitor 2nd gen,Afatinib
+NF1,CNA,[Retinoic Acid],[]
+EGFR,MUT,ERBB2 inhibitor&EGFR inhibitor 2nd gen;EGFR mAb inhibitor,Afatinib;Cetuximab
+EGFR,MUT,ERBB2 inhibitor&EGFR inhibitor 2nd gen;EGFR mAb inhibitor,Afatinib;Cetuximab
+EGFR,MUT,ERBB2 inhibitor&EGFR inhibitor 2nd gen;EGFR mAb inhibitor,Afatinib;Cetuximab
+EGFR,MUT,ERBB2 inhibitor&EGFR inhibitor 2nd gen;EGFR mAb inhibitor,Afatinib;Nimotuzumab
+EGFR,EXPR,EGFR mAb inhibitor,Cetuximab
+EGFR,MUT,EGFR mAb inhibitor,Cetuximab
+EGFR,MUT,EGFR mAb inhibitor;MTOR inhibitor,Cetuximab;Sirolimus
+EGFR,FUS,EGFR inhibitor 1st gen,Erlotinib
+EGFR,FUS,EGFR inhibitor 1st gen,Erlotinib
+EGFR,MUT,EGFR inhibitor 1st gen,Erlotinib
+EGFR,MUT,EGFR inhibitor 1st gen,Erlotinib
+EGFR,MUT,EGFR inhibitor 1st gen,Erlotinib
+EGFR,MUT,EGFR inhibitor 1st gen,Erlotinib
+NRAS,MUT,[BRAF inhibitor],[]
+EGFR,MUT,EGFR inhibitor 1st gen,Erlotinib
+EGFR,MUT,EGFR inhibitor 1st gen,Erlotinib
+EGFR,MUT,EGFR inhibitor 1st gen,Erlotinib
+PDGFRA,CNA,[PDGFR inhibitor],[]
+PIK3CA,MUT,[BRAF inhibitor],[]
+EGFR,MUT,EGFR inhibitor 1st gen,Gefitinib
+PIK3CA,CNA,[PI3K pathway inhibitor],[]
+PIK3CA,MUT,[PI3K pathway inhibitor],[]
+EGFR,CNA,EGFR inhibitor 1st gen,Gefitinib
+EGFR,MUT,EGFR inhibitor 1st gen,Gefitinib
+EGFR,MUT,EGFR inhibitor 1st gen,Gefitinib
+PIK3CB,MUT,[PI3K pathway inhibitor],[]
+EGFR,MUT,ERBB2 inhibitor,Lapatinib
+EGFR,MUT,EGFR inhibitor 3rd gen,Osimertinib
+EGFR,MUT,EGFR inhibitor 3rd gen,Osimertinib
+PTEN,MUT,[EGFR mAb inhibitor],[]
+PTEN,CNA,[EGFR mAb inhibitor],[]
+PTEN,MUT,[MTOR inhibitor],[]
+EGFR,MUT,EGFR inhibitor 3rd gen,Osimertinib
+EGFR,MUT,EGFR inhibitor 3rd gen,Osimertinib
+PTEN,CNA,[MTOR inhibitor],[]
+PTEN;BRAF,MUT;MUT,[BRAF inhibitor],[]
+EGFR,MUT,EGFR mAb inhibitor,Panitumumab
+EGFR,MUT,Vaccine,Rindopepimut
+PTEN;BRAF,CNA;MUT,[BRAF inhibitor],[]
+EPHA2,MUT,[MTOR inhibitor],[]
+EPHA2,MUT,[MTOR inhibitor],[]
+EPHA2,CNA,BCR-ABL inhibitor 2nd gen,Dasatinib
+EPHA2,CNA,BCR-ABL inhibitor 2nd gen,Dasatinib
+EPHA2,MUT,BCR-ABL inhibitor 2nd gen,Dasatinib
+EPHA2,MUT,BCR-ABL inhibitor 2nd gen,Dasatinib
+EPHA3,CNA,[EPHA3 inhibitor],[]
+EPHA3,CNA,[EPHA3 inhibitor],[]
+PTEN;BRAF,MUT;MUT,[MEK inhibitor],[]
+PTEN;BRAF,CNA;MUT,[MEK inhibitor],[]
+ERBB2,CNA,[ERBB2 inhibitor;CDK4/6 inhibitor],[]
+ERBB2,MUT,[ERBB2 inhibitor],"[Afatinib,Lapatinib,Neratinib]"
+ERBB2,MUT,[ERBB2 mAb inhibitor],[Trastuzumab]
+ERBB2,CNA,EGFR mAb inhibitor,Ado-Trastuzumab Emtansine
+ERBB2,EXPR,ERBB2 mAb inhibitor,Ado-Trastuzumab Emtansine
+ERBB2,MUT,ERBB2 mAb inhibitor,Ado-Trastuzumab Emtansine
+ERBB2,MUT,ERBB2 mAb inhibitor,Ado-Trastuzumab Emtansine
+ERBB2,CNA,ERBB2&EGFR inhibitor 2nd gen,Afatinib
+ERBB2,CNA,ERBB2&EGFR inhibitor 2nd gen,Afatinib
+ERBB2,CNA,ERBB2&EGFR inhibitor 2nd gen,Afatinib
+ERBB2,MUT,ERBB2&EGFR inhibitor 2nd gen,Afatinib
+ERBB2,MUT,ERBB2&EGFR inhibitor 2nd gen,Afatinib
+ERBB2,MUT,Pan ERBB inhibitor,Dacomitinib
+ERBB2,CNA,ERBB2 inhibitor,Lapatinib
+ERBB2,CNA,ERBB2 inhibitor,Lapatinib
+ERBB2,MUT,ERBB2 inhibitor,Lapatinib
+RAC1;BRAF,MUT;MUT,[BRAF inhibitor],[]
+ERBB2,EXPR,ERBB2 inhibitor,Lapatinib
+ERBB2,MUT,ERBB2 inhibitor,Lapatinib
+ERBB2,MUT,ERBB2 inhibitor,Lapatinib
+ERBB2,CNA,ERBB2 inhibitor;Chemotherapy,Lapatinib;Chemotherapy
+ERBB2,EXPR,Allosteric AKT inhibitor;ERBB2 mAb inhibitor,MK2206;Trastuzumab
+ERBB2,MUT,ERBB2 inhibitor,Neratinib
+ERBB2,MUT,ERBB2 inhibitor,Neratinib
+ERBB2,CNA,ERBB2 inhibitor,Neratinib
+ERBB2,MUT,ERBB2 inhibitor,Neratinib
+ERBB2,MUT,ERBB2 inhibitor,Neratinib
+ERBB2,MUT,ERBB2 inhibitor,Neratinib
+ERBB2,MUT,ERBB2 inhibitor,Neratinib
+ERBB2,MUT,ERBB2 inhibitor,Neratinib
+ERBB2,MUT,ERBB2 inhibitor,Neratinib
+RAC1;BRAF,MUT;MUT,[BRAF inhibitor],[]
+RAF1;BRAF,MUT;MUT,[BRAF inhibitor],[]
+ERBB2,CNA,ERBB2 mAb inhibitor,Pertuzumab
+ERBB2,CNA,ERBB2 mAb inhibitor,Pertuzumab
+ERBB2,CNA,ERBB2 mAb inhibitor,Pertuzumab
+ERBB2,EXPR,ERBB2 mAb inhibitor,Pertuzumab
+ERBB2,MUT,MTOR inhibitor,Tensirolimus
+ERBB2,CNA,ERBB2 mAb inhibitor,Trastuzumab
+ERBB2,CNA,ERBB2 mAb inhibitor,Trastuzumab
+ERBB2,CNA,ERBB2 mAb inhibitor,Trastuzumab
+STK11,MUT,[BET inhibitor],[]
+ERBB2,CNA,ERBB2 mAb inhibitor,Trastuzumab
+ERBB2,CNA,ERBB2 mAb inhibitor,Trastuzumab
+ERBB2,MUT,ERBB2 mAb inhibitor,Trastuzumab
+ERBB2,MUT,ERBB2 mAb inhibitor,Trastuzumab
+ERBB2,MUT,ERBB2 mAb inhibitor,Trastuzumab
+ERBB2,EXPR,ERBB2 mAb inhibitor,Trastuzumab
+ERBB2,EXPR,ERBB2 mAb inhibitor,Trastuzumab
+ERBB2,MUT,ERBB2 mAb inhibitor,Trastuzumab
+ERBB2,CNA,ERBB2 mAb inhibitor,Ado-Trastuzumab Emtansine
+ERBB2,CNA,ERBB2 mAb inhibitor;MTOR inhibitor;Chemotherapy,Trastuzumab;Everolimus;Chemotherapy
+ERBB2,CNA,ERBB2 mAb inhibitor;HSP90 inhibitor,Trastuzumab;HSP90 inhibitor
+ERBB2,CNA,ERBB2 mAb inhibitor;ERBB2 inhibitor,Trastuzumab;Lapatinib
+ERBB2,CNA,ERBB2 mAb inhibitor;ERBB2 inhibitor,Trastuzumab;Lapatinib
+ERBB2;ESR1,EXPR;EXPR,[Hormonal therapy],"[Tamoxifen,Letrozole,Anastrozole,Exemestane,Fulvestrant,LHRH analogues or antagonist]"
+ERBB2;ESR1,EXPR;EXPR,CDK4/6 inhibitor,Abemaciclib
+ERBB2;ESR1,EXPR;EXPR,MTOR inhibitor,Everolimus
+ERBB2;ESR1,EXPR;EXPR,CDK4/6 inhibitor,Palbociclib
+STK11;KRAS,MUT;MUT,[PD1 Ab inhibitor],[]
+ERBB3,MUT,[ERBB3 mAb inhibitor],[]
+ERBB3,MUT,[PI3K pathway inhibitor;MEK inhibitor],[]
+ERBB3,MUT,ERBB2&EGFR inhibitor 2nd gen,Afatinib
+ERBB3,MUT,ERBB2&EGFR inhibitor 2nd gen,Afatinib
+ERBB3,MUT,ERBB2 inhibitor,Lapatinib
+ERBB3,MUT,ERBB2 mAb inhibitor,Pertuzumab
+ERBB3,MUT,ERBB2 mAb inhibitor,Trastuzumab
+STK11;KRAS,CNA;MUT,[PD1 Ab inhibitor],[]
+ERBB4,MUT,ERBB2 inhibitor,Lapatinib
+ERBB4,FUS,ERBB2 inhibitor;ERBB2 inhibitor&EGFR inhibitor 2nd gen,Lapatinib;Afatinib
+ERCC1,MUT,[PARP inhibitor],[]
+ERCC1,CNA,[PARP inhibitor],[]
+ERCC1,MUT,Chemotherapy,Cisplatin
+ERCC1,CNA,Chemotherapy,Cisplatin
+TP53,MUT,[MDM2 inhibitor],[]
+ERCC2,MUT,Chemotherapy,Cisplatin
+ERCC4,MUT,Chemotherapy,Cisplatin
+ERCC6,MUT,Chemotherapy,Cisplatin
+EREG,CNA,[EGFR mAb inhibitor],[]
+ZBTB16,EXPR,[LHRH analogues or antagonist],[]
+ESR1,MUT,[novel ER degrader],[GDC-0810]
+NTRK1,MUT,[Pan-TK inhibitor],[Entrectinib]
+ESR1,MUT,Hormonal therapy,Fluvestrant
+ERBB4,MUT,[ERBB2 inhibitor],[Lapatinib]
+ABL1,MUT,[BCR-ABL inhibitor 2nd gen],"[Nilotinib,Dasatinib]"
+EZH2,MUT,[EZH2 inhibitor],"[EPZ-005687,EPZ-6438]"
+FANCA,MUT,PARP inhibitor,Olaparib
+FANCA,CNA,PARP inhibitor,Olaparib
+FANCC,MUT,Chemotherapy,Cisplatin
+FANCC,CNA,Chemotherapy,Cisplatin
+FAT1,MUT,[BET inhibitor],[]
+FBXW7,MUT,[Steroid],[]
+TP53,MUT,CDK4/CDK6 inhibitor,Abemaciclib
+FBXW7,CNA,MTOR inhibitor,Sirolimus
+FGF3,CNA,FGFR inhibitor,Dovitinib
+FGF3,CNA,FGFR inhibitor,Lucitanib
+FGF4,CNA,FGFR inhibitor,Dovitinib
+FGF4,CNA,FGFR inhibitor,Lucitanib
+FGFR1,CNA,[FGFR inhibitor],[]
+FGFR1,CNA,[FGFR inhibitor],[]
+FGFR1,CNA,[FGFR inhibitor],[]
+FGFR1,CNA,[FGFR inhibitor],[]
+FGFR1,CNA,[FGFR inhibitor],[Lucitanib]
+AR,CNA,AR inhibitor,Abiraterone
+AR,MUT,AR inhibitor,Abiraterone
+FGFR2,FUS,[FGFR inhibitor],[]
+FGFR2,MUT,[FGFR inhibitor],[]
+FGFR2,CNA,[FGFR inhibitor],[]
+FGFR2,CNA,[FGFR inhibitor],[]
+EGFR,EXPR,EGFR mAb inhibitor,Panitumumab
+FGFR2,MUT,[FGFR inhibitor],[]
+FGFR2,MUT,[FGFR inhibitor],[]
+FGFR2,MUT,[FGFR inhibitor],[]
+FGFR2,FUS,[FGFR inhibitor],[]
+ALK,MUT,ALK inhibitor,Alectinib
+FGFR2,MUT,BCR-ABL inhibitor 3rd gen&Pan-TK inhibitor,Ponatinib
+FGFR3,FUS,[FGFR inhibitor],[]
+FGFR3,MUT,[FGFR inhibitor],[]
+FGFR3,MUT,[FGFR inhibitor],[]
+FGFR3,MUT,[FGFR inhibitor],[]
+AR,MUT,AR inhibitor,Arn-509
+FGFR3,FUS,[FGFR inhibitor],[]
+FGFR3,MUT,Proteasome inhibitor,Bortezomib
+FGFR3,FUS,[FGFR inhibitor],
+FGFR4,MUT,[FGFR inhibitor],[]
+FLCN,MUT,MTOR inhibitor,Everolimus
+FLCN,CNA,MTOR inhibitor,Everolimus
+FLT1,EXPR,Pan-TK inhibitor,Sunitinib
+FLT1,EXPR,Pan-TK inhibitor,Sunitinib
+FGFR3,MUT,Proteasome inhibitor,Bortezomib
+FLT3,MUT,[FLT3 inhibitor],[]
+FLT3,MUT,[novel FLT3 inhibitor],[]
+FLT3,MUT,FLT3 inhibitor,Crenolanib
+FLT3,MUT,Pan-TK inhibitor,Lestaurtinib
+FLT3,MUT,Pan-TK inhibitor,Midostaurin
+FLT3,MUT,Pan-TK inhibitor,Midostaurin
+ABL1,MUT,BCR-ABL inhibitor  3rd gen,Bosutinib
+FLT3,MUT,Pan-TK inhibitor,Quizartinib
+PTEN,BIA,PIK3CA inhibitor,BYL719
+FLT3,MUT,Pan-TK inhibitor,Sorafenib
+FLT3,MUT,Pan-TK inhibitor;Chemotherapy,Sorafenib;Azacytidine
+NF1,MUT,ALK inhibitor,Cediranib
+NF1,CNA,ALK inhibitor,Cediranib
+ALK,MUT,ALK inhibitor,Ceritinib
+FOXA1,CNA,[BCL2 inhibitor],[]
+FRS2,CNA,[FGFR inhibitor],[]
+G6PD,BIA,BRAF inhibitor,Dabrafenib
+G6PD,MUT,BRAF inhibitor,Dabrafenib
+G6PD;G6PD,MUT;MUT,BRAF inhibitor,Dabrafenib
+GATA3,MUT,[Aromatase ihibitor],[]
+ROS1,MUT,ALK inhibitor,Ceritinib
+GNA11,MUT,[PI3K pathway inhibitor;MEK inhibitor],[]
+GNA11,MUT,MEK inhibitor,Selumetinib
+GNA11,MUT,HDAC inhibitor,Vorinostat
+GNAQ,MUT,[HDAC inhibitor],[]
+GNAQ,MUT,[PI3K pathway inhibitor;MEK inhibitor],[]
+GNAQ,MUT,[PKC inhibitor],[]
+GNAQ,MUT,MEK inhibitor,Selumetinib
+GNAS,MUT,[JAK inhibitor],[]
+HDAC2,BIA,PARP inhibitor,Olaparib
+HGF,EXPR,Pan-kinase inhibitor,Cabozantinib
+BRAF,MUT,EGFR mAb inhibitor,Cetuximab
+HIF1A,EXPR,Pan-TK inhibitor,Sunitinib
+HRAS,MUT,[MEK inhibitor +/- MTOR inhibitor],[]
+HRAS,MUT,[MTOR inhibitor],[]
+HRAS,MUT,[PI3K pathway inhibitor;MEK inhibitor],[]
+HRAS,MUT,Farnesyltransferase inhibitor,Tipifarnib
+HRAS,MUT,Farnesyltransferase inhibitor,Tipifarnib
+IDH1,MUT,[BCL2 inhibitor],[]
+IDH1,MUT,[IDH1 inhibitor],[]
+IDH1,MUT,[PARP inhibitor],[]
+IDH1,MUT,IDH1 inhibitor,AG-120
+IDH1,MUT,BCR-ABL inhibitor 2nd gen,Dasatinib
+IDH1,MUT,BCR-ABL inhibitor 2nd gen,Dasatinib
+IDH1,MUT,BCL2 inhibitor,Venetoclax
+IDH2,MUT,IDH2 inhibitor,AG-221
+IDH2,MUT,BCR-ABL inhibitor 2nd gen,Dasatinib
+IDH2,MUT,BCR-ABL inhibitor 2nd gen,Dasatinib
+IDH2,MUT,BCL2 inhibitor,Venetoclax
+EGFR,MUT,EGFR mAb inhibitor,Cetuximab
+EGFR,MUT,EGFR mAb inhibitor,Cetuximab
+IL7R;SH2B3,MUT;CNA,[MTOR inhibitor],[]
+IL7R;SH2B3,MUT;CNA,[MTOR inhibitor],[]
+IL7R;SH2B3,MUT;CNA,JAK inhibitor,Ruxolitinib
+IL7R;SH2B3,MUT;CNA,JAK inhibitor,Ruxolitinib
+INPP4B,MUT,[PI3K pathway inhibitor],[]
+INPP4B,CNA,[PI3K pathway inhibitor],[]
+KRAS,MUT,[EZH2 inhibitor],[]
+KRAS,MUT,[PI3K pathway inhibitor],[]
+JAK1,MUT,JAK inhibitor,Ruxolitinib
+JAK2,MUT,[JAK inhibitor (alone or in combination)],[]
+JAK2,CNA,[JAK inhibitor],[]
+NRAS,MUT,EGFR mAb inhibitor,Panitumumab
+JAK2,FUS,JAK inhibitor,Ruxolitinib
+JAK2,MUT,JAK inhibitor,Ruxolitinib
+JAK2,MUT,JAK inhibitor,Ruxolitinib
+JAK3,MUT,[JAK inhibitor],[]
+JAK3,MUT,[JAK inhibitor],[]
+KCNJ5,MUT,Na-Ca chanel blocker,Amiloride
+KCNJ5,MUT,Na-Ca chanel blocker,Verapamil
+KDR,MUT,[VEGFR inhibitor],[]
+KIT,MUT,[HSP90 inhibitor],[]
+KIT,MUT,[HSP90 inhibitor],[]
+KIT,MUT,BCR-ABL inhibitor 2nd gen,Dasatinib
+KIT,MUT,BCR-ABL inhibitor 2nd gen,Dasatinib
+KIT,MUT,BCR-ABL inhibitor 2nd gen,Dasatinib
+KIT,MUT,BCR-ABL inhibitor 2nd gen,Dasatinib
+KIT,MUT,BCR-ABL inhibitor 2nd gen,Dasatinib
+KIT,MUT,BCR-ABL inhibitor 2nd gen,Dasatinib
+KIT,MUT,BCR-ABL inhibitor 1st gen&KIT inhibitor,Imatinib
+KIT,MUT,BCR-ABL inhibitor 1st gen&KIT inhibitor,Imatinib
+PIK3CA,MUT,EGFR mAb inhibitor,Cetuximab
+KIT,MUT,BCR-ABL inhibitor 1st gen&KIT inhibitor,Imatinib
+KIT,MUT,BCR-ABL inhibitor 1st gen&KIT inhibitor,Imatinib
+KIT,MUT,BCR-ABL inhibitor 1st gen&KIT inhibitor,Imatinib
+PTEN,BIA,EGFR mAb inhibitor,Cetuximab
+ERCC1,EXPR,Chemotherapy,Cisplatin
+MDM2,CNA,Chemotherapy,Cisplatin
+TP53,MUT,Chemotherapy,Cisplatin
+ALK,MUT,ALK inhibitor,Crizotinib
+KIT,MUT,BCR-ABL inhibitor 1st gen&KIT inhibitor,Imatinib
+ALK,MUT,ALK inhibitor,Crizotinib
+ALK,CNA,ALK inhibitor,Crizotinib
+KIT,MUT,BCR-ABL inhibitor 1st gen&KIT inhibitor,Imatinib
+KIT,MUT,BCR-ABL inhibitor 2nd gen,Nilotinib
+KIT,MUT,BCR-ABL inhibitor 2nd gen,Nilotinib
+KIT,MUT,BCR-ABL inhibitor 2nd gen,Nilotinib
+KIT,MUT,BCR-ABL inhibitor 3rd gen&Pan-TK inhibitor,Ponatinib
+KIT,MUT,BCR-ABL inhibitor 3rd gen&Pan-TK inhibitor,Ponatinib
+KIT,MUT,Pan-kinase inhibitor,Regorafenib
+KIT,MUT,Pan-TK inhibitor,Sorafenib
+KIT,MUT,Pan-TK inhibitor,Sorafenib
+KIT,MUT,Pan-TK inhibitor,Sorafenib
+KIT,MUT,Pan-TK inhibitor,Sorafenib
+KIT,MUT,Pan-TK inhibitor,Sorafenib
+KIT,MUT,Pan-TK inhibitor,Sorafenib
+KIT,MUT,Pan-TK inhibitor,Sunitinib
+KIT,MUT,Pan-TK inhibitor,Sunitinib
+ALK,CNA,ALK inhibitor,Crizotinib
+KIT,MUT,Pan-TK inhibitor,Sunitinib
+ALK,MUT,ALK inhibitor,Crizotinib
+ALK,MUT,ALK inhibitor,Crizotinib
+KIT,MUT,Pan-TK inhibitor,Sunitinib
+KIT,MUT,Pan-TK inhibitor,Sunitinib
+KIT,MUT,Pan-TK inhibitor,Sunitinib
+KRAS,MUT,EGFR mAb inhibitor,Panitumumab
+KRAS,MUT,BCR-ABL inhibitor 1st gen&KIT inhibitor,Imatinib
+KRAS,MUT,EGFR mAb inhibitor,Panitumumab
+KRAS,MUT,EGFR mAb inhibitor,Cetuximab
+ALK,MUT,ALK inhibitor,Crizotinib
+MET,MUT,ALK inhibitor,Crizotinib
+KRAS,MUT,[EGFR inhibitor],[]
+KRAS,MUT,ERBB2 mAb inhibitor;ERBB2 inhibitor,Trastuzumab;Lapatinib
+ROS1,MUT,ALK inhibitor,Crizotinib
+ROS1,MUT,ALK inhibitor,Crizotinib
+KRAS,MUT,[BET inhibitor],[]
+KRAS,MUT,[CDK4 inhibitor],[]
+KRAS,MUT,[CDK4/6 inhibitor;MEK inhibitor],[]
+KRAS,MUT,[CDK4/6 inhibitor;MEK inhibitor],[]
+KRAS,MUT,[EGFR mAb inhibitor;MEK inhibitor],[]
+KRAS,MUT,[ERK inhibitor],[]
+KRAS,MUT,[FAK inhibitor],[]
+KRAS,MUT,[FAS inhibitor],[]
+KRAS,MUT,[FAS inhibitor],[]
+KRAS,MUT,[HSP90 inhibitor (in combination)],[]
+KRAS,MUT,[JAK/TBK1/IKKε inhibitor],[]
+KRAS,MUT,[MEK inhibitor;BCL-XL inhibitor],[]
+KRAS,MUT,[MEK inhibitor;IGF1R inhibitor],[]
+KRAS,MUT,[MEK inhibitor;PI3K pathway inhibitor],[]
+ABL1,MUT,BCR-ABL inhibitor 2nd gen,Dasatinib
+KRAS,MUT,[MEK inhibitor],[]
+KRAS,MUT,[MEK inhibitor],[]
+NF1,MUT,BCR-ABL inhibitor 2nd gen,Dasatinib
+KRAS,MUT,[MEK inhibitor],[]
+NF1,CNA,BCR-ABL inhibitor 2nd gen,Dasatinib
+FGFR2,MUT,FGFR inhibitor,Dovitinib
+KRAS,MUT,[MTOR inhibitor;BH3 mimetics],[]
+KRAS,MUT,[pan-RAF inhibitor],[]
+AR,MUT,AR inhibitor,Enzalutamide
+KRAS,MUT,[pan-RAF inhibitor],[]
+KRAS,MUT,[PI3K pathway inhibitor;MEK inhibitor],[]
+KRAS,MUT,[PI3K pathway inhibitor;MEK inhibitor],[]
+EGFR,CNA,EGFR inhibitor 1st gen,Erlotinib
+EGFR,MUT,EGFR inhibitor 1st gen,Erlotinib
+KRAS,MUT,CDK4/6 inhibitor,Abemaciclib
+IGF1R,CNA,EGFR inhibitor 1st gen,Erlotinib
+NF1,MUT,EGFR inhibitor 1st gen,Erlotinib
+NF1,CNA,EGFR inhibitor 1st gen,Erlotinib
+NF2,MUT,EGFR inhibitor 1st gen,Erlotinib
+NF2,CNA,EGFR inhibitor 1st gen,Erlotinib
+NF2;EGFR,MUT;MUT,EGFR inhibitor 1st gen;EGFR mAb inhibitor,Erlotinib;Cetuximab
+NF2;EGFR,CNA;MUT,EGFR inhibitor 1st gen;EGFR mAb inhibitor,Erlotinib;Cetuximab
+MTOR,MUT,MTOR inhibitor,Everolimus
+MAP2K1,MUT,[ERK inhibitor],[]
+MAP2K1,MUT,[ERK inhibitor],[]
+NF1,MUT,MTOR inhibitor,Everolimus
+NF1,CNA,MTOR inhibitor,Everolimus
+NF1,MUT,MTOR inhibitor;VEGFR mAb inhibitor,Everolimus;Bevacizumab
+MAP2K1,MUT,[novel MEK inhibitor],[]
+MAP2K1,MUT,EGFR mAb inhibitor;MEK inhibitor,Panitumumab;Trametinib
+MAP2K1,MUT,MEK inhibitor,Selumetinib
+MAP2K1,MUT,MEK inhibitor,Trametinib
+NF1,CNA,MTOR inhibitor;VEGFR mAb inhibitor,Everolimus;Bevacizumab
+MAP2K1;BRAF,MUT;MUT,[BRAF inhibitor],[]
+NF1,MUT,MTOR inhibitor;EGFR inhibitor 1st gen,Everolimus;Erlotinib
+NF1,CNA,MTOR inhibitor;EGFR inhibitor 1st gen,Everolimus;Erlotinib
+ESR1,MUT,Hormonal therapy,Exemestane
+AR,MUT,AR inhibitor,Flutamide
+ESR1,MUT,Hormonal therapy,Fulvestrant
+MDM2,CNA,[MDM2 inhibitor],[]
+EGFR,MUT,EGFR inhibitor 1st gen,Gefitinib
+MDM4,CNA,[MDM2/MDMX inhibitor],[]
+EGFR,CNA,EGFR inhibitor 1st gen,Gefitinib
+MET,MUT,MET inhibitor,Savolitinib
+MET,CNA,[BCL2 inhibitor],[]
+EGFR,MUT,EGFR inhibitor 1st gen,Gefitinib
+SLC29A1,MUT,Chemotherapy,Gemcitabine
+MET,CNA,[MET inhibitor],[]
+MET,CNA,[MET inhibitor],[]
+MET,CNA,[MET inhibitor],[]
+BTK,MUT,BTK inhibitor,Ibrutinib
+MET,MUT,[MET inhibitor],[]
+MET,MUT,[MET inhibitor],[]
+MET,MUT,[MET inhibitor],[Crizotinib]
+MET,CNA,Pan-kinase inhibitor;EGFR mAb inhibitor,Cabozantinib;Panitumumab
+MET,FUS,ALK inhibitor,Crizotinib
+MET,MUT,ALK inhibitor,Crizotinib
+MET,CNA,ALK inhibitor,Crizotinib
+MET,CNA,ALK inhibitor,Crizotinib
+MET,CNA,ALK inhibitor,Crizotinib
+MET,MUT,ALK inhibitor,Crizotinib
+BTK,MUT,BTK inhibitor,Ibrutinib
+PLCG2,MUT,BTK inhibitor,Ibrutinib
+ABL1,MUT,BCR-ABL inhibitor 1st gen&KIT inhibitor,Imatinib
+MET;BRAF,CNA;MUT,ALK inhibitor;BRAF inhibitor,Crizotinib;Vemurafenib
+KIT,MUT,BCR-ABL inhibitor 1st gen&KIT inhibitor,Imatinib
+KIT,MUT,BCR-ABL inhibitor 1st gen&KIT inhibitor,Imatinib
+MET;ERBB2,CNA;CNA,ALK inhibitor;ERBB2 mAb inhibitor,Crizotinib;Trastuzumab
+MET;ERBB2,CNA;CNA,ALK inhibitor;ERBB2 mAb inhibitor,Crizotinib;Trastuzumab
+KIT,MUT,BCR-ABL inhibitor 1st gen&KIT inhibitor,Imatinib
+KIT,MUT,BCR-ABL inhibitor 1st gen&KIT inhibitor,Imatinib
+KIT,CNA,BCR-ABL inhibitor 1st gen&KIT inhibitor,Imatinib
+KIT,MUT,BCR-ABL inhibitor 1st gen&KIT inhibitor,Imatinib
+KIT,MUT,BCR-ABL inhibitor 1st gen&KIT inhibitor,Imatinib
+MKI67,EXPR,Pan-TK inhibitor,Sunitinib
+MLL,FUS,[BET inhibitor],[]
+MLL,FUS,HDAC inhibitor,Belinostat
+MLL,FUS,Chemotherapy,Daunorubicin
+MLL,FUS,DOTL1 inhibitor,EPZ-5676
+MLL2,MUT,AR inhibitor,Bicalutamide
+MPL,MUT,[JAK inhibitor],[]
+MSH3,MUT,[DNA-PKc inhibitor],[]
+MTOR,MUT,[MTOR kinase inhibitor],[]
+MTOR,MUT,MTOR inhibitor,Everolimus
+KIT,MUT,BCR-ABL inhibitor 1st gen&KIT inhibitor,Imatinib
+MTOR,MUT,MTOR inhibitor,Everolimus
+MTOR,MUT,MTOR inhibitor,Everolimus
+MTOR,MUT,MTOR inhibitor,Everolimus
+MTOR,MUT,MTOR inhibitor,Everolimus
+MTOR,MUT,MTOR inhibitor,Sirolimus
+MYC,CNA,[BET inhibitor],[]
+MYC,CNA,[CDK7 inhibitor],[]
+MYC,CNA,[FACT inhibitor],[]
+MYC,CNA,[PIM inhibitor],[]
+MYC,CNA,Chemotherapy,Temozolomide
+KRAS,MUT,Chemotherapy;BCL2 inhibitor,Decitabine;BCL2 inhibitor
+MYD88,MUT,BTK inhibitor,Ibrutinib
+NF1,MUT,[AURK inhibitor],[]
+NF1,CNA,[AURK inhibitor],[]
+NF1,MUT,[BRD4 inhibitor],[]
+NF1,CNA,[BRD4 inhibitor],[]
+NF1,MUT,[KIT inhibitor;MTOR inhibitor],[]
+NF1,CNA,[KIT inhibitor;MTOR inhibitor],[]
+NF1,MUT,[MEK inhibitor],[]
+NF1,MUT,[MEK inhibitor],[]
+NF1,CNA,[MEK inhibitor],[]
+NF1,CNA,[MEK inhibitor],[]
+NF1,MUT,[MTOR inhibitor;HSP90 inhibitor],[]
+NF1,CNA,[MTOR inhibitor;HSP90 inhibitor],[]
+NF1,MUT,[MTOR inhibitor],[]
+NF1,CNA,[MTOR inhibitor],[]
+NF1,MUT,[Pan-RAF inhibitor;MEK inhibitor],[]
+NF1,CNA,[Pan-RAF inhibitor;MEK inhibitor],[]
+NF1,MUT,[PD1 Ab inhibitor],[]
+NF1,CNA,[PD1 Ab inhibitor],[]
+PDGFRA,MUT,BCR-ABL inhibitor 1st gen&KIT inhibitor,Imatinib
+PDGFRA,MUT,BCR-ABL inhibitor 1st gen&KIT inhibitor,Imatinib
+NF1,MUT,VEGFR mAb inhibitor,Bevacizumab
+NF1,CNA,VEGFR mAb inhibitor,Bevacizumab
+PDGFRA,MUT,BCR-ABL inhibitor 1st gen&KIT inhibitor,Imatinib
+ERBB2,MUT,ERBB2 inhibitor,Lapatinib
+MET;ERBB2,CNA;CNA,ERBB2 inhibitor,Lapatinib
+NTRK1,MUT,Topomyosine kinase inhibitor,Larotrectinib
+NTRK3,MUT,Topomyosine kinase inhibitor,Larotrectinib
+CRBN,MUT,Immunomodulator,Lenalidomide
+CRBN,MUT,Immunomodulator,Lenalidomide
+NF1,MUT,MTOR inhibitor,Everolimus
+NF1,MUT,MTOR inhibitor,Everolimus
+NF1,MUT,MTOR inhibitor,Everolimus
+CRBN,EXPR,Immunomodulator,Lenalidomide
+NF1,CNA,MTOR inhibitor,Everolimus
+LRP1B,MUT,Chemotherapy,Liposomal Doxorubicin
+LRP1B,CNA,Chemotherapy,Liposomal Doxorubicin
+STK11;KRAS,MUT;MUT,MEK inhibitor;Chemotherapy,MEK inhibitor;Docetaxel
+STK11;KRAS,CNA;MUT,MEK inhibitor;Chemotherapy,MEK inhibitor;Docetaxel
+NF1,MUT,MTOR inhibitor;VEGFR inhibitor,Everolimus;Pazopanib
+NF1,MUT,BCR-ABL inhibitor 1st gen&KIT inhibitor,Imatinib
+NF1,CNA,BCR-ABL inhibitor 1st gen&KIT inhibitor,Imatinib
+NF1,MUT,BCR-ABL inhibitor 2nd gen,Nilotinib
+NF1,CNA,BCR-ABL inhibitor 2nd gen,Nilotinib
+NF1,MUT,Pan-TK inhibitor,PLX3397
+NF1,CNA,Pan-TK inhibitor,PLX3397
+NF1,MUT,MEK inhibitor,Selumetinib
+NF1,CNA,MEK inhibitor,Selumetinib
+NF1,MUT,MTOR inhibitor,Sirolimus
+NF1,CNA,MTOR inhibitor,Sirolimus
+NF1,MUT,MTOR inhibitor;EGFR inhibitor 1st gen,Sirolimus;Erlotinib
+NF1,CNA,MTOR inhibitor;EGFR inhibitor 1st gen,Sirolimus;Erlotinib
+NF1,MUT,Pan-TK inhibitor;MTOR inhibitor,Sorafenib;Sirolimus
+NF1,CNA,Pan-TK inhibitor;MTOR inhibitor,Sorafenib;Sirolimus
+NF1,MUT,Hormonal therapy,Tamoxifen
+NF1,CNA,Hormonal therapy,Tamoxifen
+ERBB2,MUT,ERBB2 inhibitor,Neratinib
+ABL1,MUT,BCR-ABL inhibitor 2nd gen,Nilotinib
+NF1,MUT,MEK inhibitor,Trametinib
+NF1,MUT,MEK inhibitor,Trametinib
+NF1,CNA,MEK inhibitor,Trametinib
+NF1,CNA,MEK inhibitor,Trametinib
+EGFR,MUT,EGFR inhibitor 3rd gen,Osimertinib
+EGFR,MUT,EGFR inhibitor 3rd gen,Osimertinib
+NF1,MUT,Chemotherapy,Vinblastine
+NF1,CNA,Chemotherapy,Vinblastine
+NF1,MUT,Chemotherapy;BCR-ABL inhibitor 2nd gen,Vinblastine;Nilotinib
+NF1,CNA,Chemotherapy;BCR-ABL inhibitor 2nd gen,Vinblastine;Nilotinib
+EGFR,MUT,EGFR inhibitor 3rd gen,Osimertinib
+ERBB2,CNA,3rd generation EGFR inhibitor,Osimertinib
+MET,CNA,[EGFR inhibitor 3rd gen],Osimertinib
+TUBB3,EXPR,Taxane,Paclitaxel
+CCND1,CNA,CDK4/6 inhibitor,Palbociclib
+CDK4,CNA,CDK4/6 inhibitor,Palbociclib
+NF2,MUT,[FAK inhibitor],[]
+NF2,MUT,[FAK inhibitor],[]
+NF2,CNA,[FAK inhibitor],[]
+NF2,CNA,[FAK inhibitor],[]
+NF2,MUT,[HSP90 inhibitor],[]
+NF2,CNA,[HSP90 inhibitor],[]
+NF2,MUT,[MEK inhibitor],[]
+NF2,CNA,[MEK inhibitor],[]
+NF2,MUT,[MTOR inhibitor],[]
+NF2,CNA,[MTOR inhibitor],[]
+NF2,MUT,[PAK inhibitor],[]
+NF2,CNA,[PAK inhibitor],[]
+NF2,MUT,[PDK1 inhibitor],[]
+NF2,CNA,[PDK1 inhibitor],[]
+NF2,MUT,HDAC inhibitor,AR42
+NF2,MUT,HDAC inhibitor,AR42
+NF2,CNA,HDAC inhibitor,AR42
+NF2,CNA,HDAC inhibitor,AR42
+NF2,MUT,VEGFR mAb inhibitor,Bevacizumab
+NF2,CNA,VEGFR mAb inhibitor,Bevacizumab
+BRAF,MUT,EGFR mAb inhibitor,Panitumumab
+EGFR,MUT,EGFR mAb inhibitor,Panitumumab
+NF2,MUT,MTOR inhibitor,Everolimus
+NF2,CNA,MTOR inhibitor,Everolimus
+NF2,MUT,MTOR inhibitor;Somatostatin analog,Everolimus;Octreotide
+NF2,CNA,MTOR inhibitor;Somatostatin analog,Everolimus;Octreotide
+NF2,MUT,BCR-ABL inhibitor 1st gen&KIT inhibitor,Imatinib
+NF2,CNA,BCR-ABL inhibitor 1st gen&KIT inhibitor,Imatinib
+NF2,MUT,ERBB2 inhibitor,Lapatinib
+NF2,CNA,ERBB2 inhibitor,Lapatinib
+NF2,MUT,MTOR inhibitor;Chemotherapy,Tensirolimus;Chemotherapy
+NF2,CNA,MTOR inhibitor;Chemotherapy,Tensirolimus;Chemotherapy
+KRAS,MUT,Chemotherapy;MEK inhibitor,Gemcitabine;MEK inhibitor
+KRAS,MUT,MEK inhibitor,Selumetinib
+NOTCH1,MUT,[Gamma secretase inhibitor;CDK4 inhibitor],[]
+NOTCH1,MUT,[Gamma secretase inhibitor;MTOR inhibitor],[]
+NOTCH1,FUS,[Gamma secretase inhibitor],[]
+NOTCH1,FUS,[Gamma secretase inhibitor],[]
+NOTCH1,MUT,[Gamma secretase inhibitor],[]
+NOTCH1,MUT,[Gamma secretase inhibitor],[]
+NOTCH1,MUT,[Gamma secretase inhibitor],[]
+NOTCH1,MUT,[Gamma secretase inhibitor],[]
+NOTCH1,MUT,[NOTCH1 inhibitor],[]
+NOTCH1,MUT,[Gamma secretase inhibitor],"[Ro4929097,Pf-03084014,Mk-0752]"
+NOTCH1,MUT,NOTCH1 inhibitor,OMP-52M51
+NOTCH2,FUS,[Gamma secretase inhibitor],[]
+NOTCH2,MUT,Gamma secretase inhibitor,Mk-0752
+NOTCH2,MUT,NOTCH2 inhibitor,OMP-59R5
+NPM1,MUT,[DOT1L inhibitors;MLL1 inhibitors],[]
+NPM1,MUT,Chemotherapy,Daunorubicin
+EGFR,MUT,ERBB2 inhibitor&EGFR inhibitor 2nd gen,Afatinib
+PTEN,BIA,EGFR mAb inhibitor,Panitumumab
+NRAS,MUT,[CDK4/6 inhibitor;MEK inhibitor],[]
+NRAS,MUT,[ERK inhibitor],[]
+NRAS,MUT,[ERK inhibitor],[]
+NRAS,MUT,[HSP90 inhibitor],[]
+NRAS,MUT,[MEK inhibitor +/- PI3K pathway inhibitor],[]
+NRAS,MUT,[MEK inhibitor],[]
+NRAS,MUT,[MEK inhibitor],[]
+NRAS,MUT,[Pan-RAF inhibitor],[]
+NRAS,MUT,[PI3K pathway inhibitor;MEK inhibitor],[]
+CRBN,MUT,Immunomodulator,Pomalidomide
+CRBN,MUT,Immunomodulator,Pomalidomide
+NRAS,MUT,Pan-TK inhibitor;MEK inhibitor,Sorafenib;MEK inhibitor
+CRBN,EXPR,Immunomodulator,Pomalidomide
+NRG1,FUS,ERBB2&EGFR inhibitor 2nd gen,Afatinib
+NRG1,FUS,ERBB2 inhibitor,Lapatinib
+NTRK1,FUS,[Pan-TK inhibitor],[]
+NTRK1,FUS,[Pan-TKR inhibitor],[]
+NTRK1,FUS,[Pan-TK inhibitor],[Entrectinib]
+NTRK1,FUS,ALK inhibitor,Crizotinib
+NTRK3,FUS,[IGF1R inhibitor],[]
+NTRK3,FUS,[PI3K pathway inhibitor],[]
+NTRK3,FUS,Pan-TK inhibitor,Midostaurin
+PAK1,CNA,[PAK inhibitor],[]
+PALB2,MUT,[PARP inhibitor],[]
+PALB2,MUT,[PARP inhibitor],[]
+PALB2,CNA,[PARP inhibitor],[]
+PALB2,CNA,[PARP inhibitor],[]
+PALB2,MUT,Chemotherapy,Mytomycin C
+PALB2,CNA,Chemotherapy,Mytomycin C
+PALB2,MUT,Chemotherapy,Platinum Agent
+PALB2,CNA,Chemotherapy,Platinum Agent
+PBRM1,MUT,[EZH2 inhibitor],[]
+PBRM1,CNA,[EZH2 inhibitor],[]
+PBRM1,EXPR,MTOR inhibitor,Everolimus
+PDGFRA,MUT,[HSP90 inhibitor],[]
+FLT3,MUT,BCR-ABL inhibitor 3rd gen&Pan-TK inhibitor,Ponatinib
+PDGFRA,MUT,FLT3 inhibitor,Crenolanib
+PDGFRA,MUT,FLT3 inhibitor,Crenolanib
+PDGFRA,MUT,BCR-ABL inhibitor 2nd gen,Dasatinib
+PDGFRA,MUT,BCR-ABL inhibitor 2nd gen,Dasatinib
+PDGFRA,FUS,BCR-ABL inhibitor 1st gen&KIT inhibitor,Imatinib
+PDGFRA,FUS,BCR-ABL inhibitor 1st gen&KIT inhibitor,Imatinib
+PDGFRA,MUT,BCR-ABL inhibitor 1st gen&KIT inhibitor,Imatinib
+RET,MUT,BCR-ABL inhibitor 3rd gen&Pan-TK inhibitor,Ponatinib
+PDGFRA,MUT,BCR-ABL inhibitor 1st gen&KIT inhibitor,Imatinib
+FLT3,MUT,Pan-TK inhibitor,Quizartinib
+PDGFRA,MUT,BCR-ABL inhibitor 1st gen&KIT inhibitor,Imatinib
+EGFR,MUT,EGFR inhibitor 1st gen,Erlotinib
+PDGFRA,MUT,Pan-kinase inhibitor,Regorafenib
+PDGFRA,MUT,Pan-TK inhibitor,Sorafenib
+PDGFRA,MUT,Pan-TK inhibitor,Sunitinib
+PDGFRA,MUT,Pan-TK inhibitor,Sunitinib
+EGFR,MUT,EGFR inhibitor,Rociletinib
+PDGFRA,EXPR,Pan-TK inhibitor,Sunitinib
+PDGFB,FUS,BCR-ABL inhibitor 1st gen&KIT inhibitor,Imatinib
+PDPK1,CNA,[PI3K pathway inhibitor],[]
+PIK3CA,MUT,[AKT inhibitor],[]
+ERBB2,CNA,3rd generation EGFR inhibitor,Rociletinib
+PIK3CA,MUT,[PI3K pathway inhibitor (alone or in combination)],[]
+PIK3CA,MUT,[PI3K pathway inhibitor],[]
+PIK3CA,MUT,[PI3K pathway inhibitor],[]
+PIK3CA,MUT,[PI3K pathway inhibitor],[]
+PIK3CA,MUT,[PI3K pathway inhibitor],[]
+MET,CNA,[EGFR inhibitor 3rd gen],Rociletinib
+KRAS,MUT,Pan-TK inhibitor;MEK inhibitor,Sorafenib;MEK inhibitor
+PIK3CA,MUT,[PIK3CA inhibitor],[]
+PIK3CA,MUT,[PIK3CA inhibitor],[]
+NF1;BRAF,MUT;MUT,MEK inhibitor,Selumetinib
+PIK3CA;ERBB2,MUT;CNA,MTOR inhibitor;ERBB2 mAb inhibitor;Chemotherapy,Everolimus;Trastuzumab;Chemotherapy
+PIK3CB,MUT,[AKT inhibitor],[]
+PIK3CB,MUT,[AKT inhibitor],[]
+PIK3CB,MUT,[MTORC1/2 inhibitor],[]
+PIK3CB,MUT,[MTORC1/2 inhibitor],[]
+PIK3CB,MUT,[PI3K pathway inhibitor],[]
+NF1;BRAF,CNA;MUT,MEK inhibitor,Selumetinib
+PIK3R1,MUT,[AKT inhibitor],[]
+PIK3R1,MUT,[PI3K pathway inhibitor],[]
+PIK3R2,MUT,[MTOR inhibitor],[]
+PML,FUS,Retinoid,Tretinoin
+PML,FUS,Retinoid;Chemotherapy,Tretinoin;Arsenic Trioxide
+PML,FUS,PLK1 inhibitor,Volasertib
+POLE,MUT,[PD1 Ab inhibitor],[]
+POLE,MUT,[PD1 Ab inhibitor],[]
+PRKCH;ABL1,CNA;FUS,MEK inhibitor;BCR-ABL inhibitor 1st gen&KIT inhibitor,Trametinib;Imatinib
+PTCH1,MUT,[SMO inhibitor],[]
+PTCH1,MUT,MET inhibitor,Foretinib
+PTCH1,MUT,SHH inhibitor,Vismodegib
+PTEN,MUT,[AKT inhibitor],[]
+PTEN,CNA,[AKT inhibitor],[]
+PTEN,MUT,[ATM inhibitor],[]
+PTEN,MUT,[PARP inhibitor],[]
+PTEN,CNA,[PARP inhibitor],[]
+PTEN,MUT,[PD1 Ab inhibitor],[]
+PTEN,CNA,[PD1 Ab inhibitor],[]
+PTEN,MUT,[PI3K pathway inhibitor;AR antagonist],[]
+PTEN,CNA,[PI3K pathway inhibitor;AR antagonist],[]
+PTEN,MUT,[PI3K pathway inhibitor;MEK inhibitor],[]
+PTEN,CNA,[PI3K pathway inhibitor;MEK inhibitor],[]
+PTEN,MUT,[PI3K pathway inhibitor],[]
+PTEN,CNA,[PI3K pathway inhibitor],[]
+PTEN,MUT,[PIK3CB inhibitor],[]
+PTEN,CNA,[PIK3CB inhibitor],[]
+KIT,MUT,Pan-TK inhibitor,Sunitinib
+PTEN,MUT,MTOR inhibitor,Everolimus
+PTEN,CNA,MTOR inhibitor,Everolimus
+KIT,MUT,Pan-TK inhibitor,Sunitinib
+PTEN,MUT,MTOR inhibitor,Sirolimus
+PTEN,CNA,MTOR inhibitor,Sirolimus
+KIT,CNA,Pan-TK inhibitor,Sunitinib
+PDGFRA,MUT,Pan-TK inhibitor,Sunitinib
+ESR1,MUT,Hormonal therapy,Tamoxifen
+NF1,MUT,Farnesyltransferase inhibitor,Tipifarnib
+PTEN;ERBB2,MUT;CNA,MTOR inhibitor;ERBB2 mAb inhibitor;Chemotherapy,Everolimus;Trastuzumab;Chemotherapy
+PTPRD,MUT,[IGF1R inhibitor],[]
+NF1,CNA,Farnesyltransferase inhibitor,Tipifarnib
+NF1,MUT,MEK inhibitor,Trametinib
+RAD50;ATM,MUT;CNA,TOPO1 inhibitor;CHK1/2 inhibitor,Irinotecan;CHK1/2 inhibitor
+RAD51C,MUT,[PARP inhibitor],[]
+RAD51C,MUT,[PARP inhibitor],[]
+RAF1,FUS,[Pan-RAF inhibitor],[]
+RAF1,FUS,Pan-TK inhibitor,Sorafenib
+RAF1,EXPR,Pan-TK inhibitor,Sorafenib
+RAF1,FUS,MEK inhibitor,U0126
+NF1,CNA,MEK inhibitor,Trametinib
+RB1,MUT,[HDAC inhibitor],[]
+RB1,CNA,[HDAC inhibitor],[]
+RB1,MUT,[MDM2/MDMX inhibitor],[]
+RB1,CNA,[MDM2/MDMX inhibitor],[]
+RB1,MUT,Chemotherapy,Cisplatin
+RB1,CNA,Chemotherapy,Cisplatin
+RB1,EXPR,CDK4/6 inhibitor,Palbociclib
+RET,FUS,[RET inhibitor],[]
+RET,FUS,[RET inhibitor],[]
+RET,MUT,[RET inhibitor],[]
+RET,FUS,Pan-kinase inhibitor,Cabozantinib
+RET,FUS,Pan-kinase inhibitor,Cabozantinib
+RET,MUT,Pan-kinase inhibitor,Cabozantinib
+RET,FUS,Pan-TK inhibitor,Nintedanib
+ARID1A;ANXA1,MUT;EXPR,ERBB2 mAb inhibitor,Trastuzumab
+RET,FUS,Pan-TK inhibitor,Sunitinib
+RET,FUS,Pan-TK inhibitor,Sunitinib
+RET,MUT,Pan-TK inhibitor,Sunitinib
+RET,FUS,Pan-TK inhibitor,Vandetanib
+RET,FUS,Pan-TK inhibitor,Vandetanib
+RET,MUT,Pan-TK inhibitor,Vandetanib
+RICTOR,CNA,[MTORC1/2 inhibitor],[]
+RNF43,MUT,[Porcupine inhibitor],[]
+ROS1,FUS,[HSP90 inhibitor],[]
+ROS1,FUS,Pan-kinase inhibitor,Cabozantinib
+ROS1,MUT,Pan-kinase inhibitor,Cabozantinib
+ARID1A;ANXA1,CNA;EXPR,ERBB2 mAb inhibitor,Trastuzumab
+ROS1,FUS,ALK inhibitor,Crizotinib
+ROS1,FUS,ALK inhibitor,Crizotinib
+ROS1,FUS,ALK inhibitor,Crizotinib
+ERBB2,CNA,ERBB2 mAb inhibitor,Trastuzumab
+HGF;ERBB2,CNA;CNA,ERBB2 mAb inhibitor,Trastuzumab
+ROS1,MUT,ALK&ROS1 inhibitor,Lorlatinib
+SERPINB3,MUT,[CTLA4 inhibitor],[]
+SETD2,MUT,[WEE1 inhibitor],[]
+SETD2,CNA,[WEE1 inhibitor],[]
+SF3B1,MUT,[Spliceosome inhibitor],[]
+SH2B3,MUT,[JAK inhibitor],[]
+SH2B3,CNA,[JAK inhibitor],[]
+MET;ERBB2,CNA;CNA,ERBB2 mAb inhibitor,Trastuzumab
+SLC44A4,EXPR,[SLC44A4 inhibitor],[]
+SMARCA1,MUT,[EZH2 inhibitor],[]
+SMARCA4,MUT,[EZH2 inhibitor],[]
+SMARCA4,CNA,[EZH2 inhibitor],[]
+SMARCB1,MUT,[EZH2 inhibitor],[]
+SMARCB1,CNA,[EZH2 inhibitor],[]
+SMARCB1,CNA,[EZH2 inhibitor],[]
+SMARCB1,MUT,[HDAC inhibitor],[]
+MET;ERBB2,CNA;CNA,ERBB2 mAb inhibitor,Trastuzumab
+KRAS,MUT,MEK inhibitor;BCR-ABL inhibitor 3rd gen&Pan-TK inhibitor,Trametinib;Ponatinib
+SMO,MUT,SHH inhibitor,Vismodegib
+SRSF2,MUT,[Spliceosome inhibitor],[]
+STAG2,MUT,[PARP inhibitor],[]
+BRAF,MUT,BRAF inhibitor,Vemurafenib
+STK11,MUT,[MEK inhibitor],[]
+STK11,CNA,[MEK inhibitor],[]
+STK11,MUT,[MTOR inhibitor],[]
+STK11,CNA,[MTOR inhibitor],[]
+STK11,MUT,[SRC inhibitor;PI3K/MEK inhibitor],[]
+STK11,CNA,[SRC inhibitor;PI3K/MEK inhibitor],[]
+STK11,MUT,MTOR inhibitor,Everolimus
+STK11,MUT,Anti-diabetic,Phenformin
+STK11,CNA,Anti-diabetic,Phenformin
+BRAF,MUT,BRAF inhibitor,Vemurafenib
+MAP2K1,MUT,BRAF inhibitor,Vemurafenib
+NF1,BIA,BRAF inhibitor,Vemurafenib
+SUZ12,MUT,[BET inhibitor],[]
+SUZ12,CNA,[BET inhibitor],[]
+SYK,CNA,[SYK inhibitor],[]
+TERT,MUT,Macrocyclic analog,Eribulin
+TMPRSS2,FUS,[DNA-PKc inhibitor],[]
+TMPRSS2,FUS,[PARP inhibitor],[]
+TOP2A,CNA,Chemotherapy,Anthracyclines
+TP53,MUT,[HDM2 inhibitor],[]
+TP53,MUT,[HSP90 inhibitor],[]
+TP53,MUT,[HSP90 inhibitor],[]
+NF1;BRAF,MUT;MUT,BRAF inhibitor,Vemurafenib
+TP53,MUT,[WEE1 inhibitor],[]
+NF1;BRAF,CNA;MUT,BRAF inhibitor,Vemurafenib
+TP53,MUT,ATR inhibitor,AZD6738
+TP53,CNA,ATR inhibitor,AZD6738
+NRAS,MUT,BRAF inhibitor,Vemurafenib
+TP53,MUT,Chemotherapy,Decitabine
+TP53,MUT,Anthracycline antitumor antibiotic,Doxorubicin
+TP53,MUT,Chemotherapy,Gemcitabine
+TP53,MUT,Chemotherapy,Mitomycin C
+TP53,MUT,[WEE1 inhibitor],[]
+TP53,MUT,Amylin analogue,Pramlintide
+TP53,CNA,Amylin analogue,Pramlintide
+TPMT,MUT,Chemotherapy,Cisplatin
+TPMT,BIA,Chemotherapy,Cisplatin
+TPMT,MUT,Chemotherapy,Cisplatin
+TPMT,MUT,Purine analog,Mercaptopurine
+TPMT,BIA,Purine analog,Mercaptopurine
+TPMT,MUT,Purine analog,Mercaptopurine
+TPMT,MUT,Guanine analog,Thioguanine
+TPMT,BIA,Guanine analog,Thioguanine
+TPMT,MUT,Guanine analog,Thioguanine
+MET;BRAF,CNA;MUT,BRAF inhibitor;EGFR mAb inhibitor,Vemurafenib;Panitumumab
+NTRK3,MUT,[novel TRK inhibitor],[]
+FLT3,MUT,BCL2 inhibitor,Venetoclax
+TSC1,MUT,[MTOR inhibitor],[]
+TSC1,MUT,MTOR inhibitor,Everolimus
+TSC1,MUT,MTOR inhibitor,Everolimus
+TSC1,MUT,MTOR inhibitor,Everolimus
+TSC1,MUT,MTOR inhibitor,Everolimus
+TSC1,MUT,MTOR inhibitor,Everolimus
+TSC1,CNA,MTOR inhibitor,Everolimus
+TSC2,MUT,[MTOR inhibitor],[]
+TSC2,MUT,[SRC inhibitor],[]
+TSC2,CNA,[SRC inhibitor],[]
+TSC2,MUT,MTOR inhibitor,Everolimus
+TSC2,MUT,MTOR inhibitor,Everolimus
+TSC2,MUT,MTOR inhibitor,Everolimus
+TSC2,MUT,MTOR inhibitor,Tensirolimus
+SMO,MUT,SHH inhibitor,Vismodegib
+U2AF1,MUT,[FLT3 inhibitor],[]
+UGT1A1,BIA,TOPO1 inhibitor,Irinotecan
+UGT1A1,MUT,TOPO1 inhibitor,Irinotecan
+UGT1A1,BIA,BCR-ABL inhibitor 2nd gen,Nilotinib
+UGT1A1,MUT,BCR-ABL inhibitor 2nd gen,Nilotinib
+UGT1A1,BIA,VEGFR inhibitor,Pazopanib
+VEGFA,CNA,Pan-TK inhibitor,Sorafenib
+VHL,MUT,[VEGFR inhibitor],"[Sorafenib,Sunitinib,Bevacizumab,Axitinib]"
+SMO,MUT,SHH inhibitor,Vismodegib
+ZNRF3,MUT,[Porcupine inhibitor],[]
