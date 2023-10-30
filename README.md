@@ -2,8 +2,7 @@
 
 ![Schematic representation of the experimental design](https://github.com/Ran485/Integrated_proteogenomic_analysis_CCA/blob/main/Schematic_workflow.png)
 
-This github repository contains the data files and analysis code used to generate the figures for the manuscript **"Proteogenomic Characterization of Cholangiocarcinoma"** published in _Hepatology_
-. The Schematic representation of the experimental design and data analysis is shown above.
+This github repository contains the data files and analysis code used to generate the figures for the manuscript **"Proteogenomic Characterization of Cholangiocarcinoma"** published in _Hepatology_. The Schematic representation of the experimental design and data analysis is shown above.
 
 ## Dependencies
 
